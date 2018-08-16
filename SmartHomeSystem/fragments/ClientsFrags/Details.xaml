@@ -1,0 +1,78 @@
+﻿<Window x:Class="SmartHomeSystem.fragments.ClientsFrags.Details"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SmartHomeSystem.fragments.ClientsFrags"
+        mc:Ignorable="d"
+        Title="Details" Height="560" Width="974" >
+    <Grid x:Name="DetailFragment">
+        <Grid Background="#e6e7ed" HorizontalAlignment="Left" Width="332">
+            <Grid Background="White" Margin="0,0,5,0">
+                <Label x:Name="label" Content="Personal Details" Margin="72,10,72,0" VerticalAlignment="Top" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans" FontSize="24" FontWeight="Bold"/>
+                <Label x:Name="label1" Content="Identification Number:" HorizontalAlignment="Left" Margin="10,56,0,0" VerticalAlignment="Top" FontSize="16" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans"/>
+                <TextBox IsReadOnly="True"  x:Name="txtID" HorizontalAlignment="Left" Padding="5" Height="32" Margin="10,88,0,0"  TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="307" FontSize="16" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans" Foreground="#FF595959"/>
+                <Label x:Name="label1_Copy" Content="Name and Surname:" HorizontalAlignment="Left" Margin="10,125,0,0" VerticalAlignment="Top" FontSize="16" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans"/>
+                <TextBox IsReadOnly="True" x:Name="txtNameSurname" HorizontalAlignment="Left" Padding="5" Height="32" Margin="10,156,0,0"  TextWrapping="Wrap" Text="Marno van Niekerk" VerticalAlignment="Top" Width="307" FontSize="16" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans" Foreground="#FF595959"/>
+                <Label x:Name="label3" Content="Date of Birth:" HorizontalAlignment="Left" Margin="10,193,0,0" VerticalAlignment="Top" FontSize="16" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans"/>
+                <DatePicker Visibility="Hidden" x:Name="dpDob" IsEnabled="False" HorizontalAlignment="Left" Margin="10,224,0,0" VerticalAlignment="Top" Padding="5" Height="32" FontSize="16" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans" Width="307" SelectedDateFormat="Long" Foreground="#FF595959" BorderBrush="#FFABADB3" Text="cvb"/>
+                <TextBox IsReadOnly="True" x:Name="txtDob" HorizontalAlignment="Left" Padding="5" Height="32" Margin="10,224,0,0"  TextWrapping="Wrap" Text="1 March, 2016" VerticalAlignment="Top" Width="307" FontSize="16" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans" Foreground="#FF595959"/>
+                <Label x:Name="label4" Content="Gender:" HorizontalAlignment="Left" Margin="10,261,0,0" VerticalAlignment="Top" FontSize="16" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans"/>
+                <TextBox IsReadOnly="True" x:Name="txtGender" HorizontalAlignment="Left" Padding="5" Height="32" Margin="10,292,0,0"  TextWrapping="Wrap" Text="Male" VerticalAlignment="Top" Width="307" FontSize="16" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans" Foreground="#FF595959"/>
+            </Grid>
+        </Grid>
+        <Grid Background="#e6e7ed" HorizontalAlignment="Left" Margin="332,0,0,0" Width="332">
+            <Grid Background="white" Margin="0,0,5,0">
+                <Label x:Name="label_Copy" Content="Contact Details" Margin="72,10,72,0" VerticalAlignment="Top" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans" FontSize="24" FontWeight="Bold"/>
+                <Label x:Name="label5" Content="Email Address:" HorizontalAlignment="Left" Margin="10,58,0,0" VerticalAlignment="Top" FontSize="16" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans"/>
+                <TextBox IsReadOnly="True" x:Name="txtEmail" HorizontalAlignment="Left" Padding="5" Height="32" Margin="10,89,0,0"  TextWrapping="Wrap" Text="marnovn071@gmail.com" VerticalAlignment="Top" Width="307" FontSize="16" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans" Foreground="#FF595959"/>
+                <Label x:Name="label6" Content="Phone Number:" HorizontalAlignment="Left" Margin="10,126,0,0" VerticalAlignment="Top" FontSize="16" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans"/>
+                <TextBox IsReadOnly="True" x:Name="txtPhone" HorizontalAlignment="Left" Padding="5" Height="32" Margin="10,157,0,0"  TextWrapping="Wrap" Text="(071) 990-8072" VerticalAlignment="Top" Width="307" FontSize="16" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans" Foreground="#FF595959"/>
+                <Label x:Name="label7" Content="Contact Methods:" HorizontalAlignment="Left" Margin="10,194,0,0" VerticalAlignment="Top" FontSize="16" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans"/>
+
+                <Border BorderBrush="#FFABADB3" BorderThickness="1" HorizontalAlignment="Left" Height="127" Margin="10,225,0,0" VerticalAlignment="Top" Width="307">
+                    <Grid IsEnabled="false" >
+                        <Viewbox Height="37" Margin="0,0,0,96" HorizontalAlignment="Left">
+                            <RadioButton GroupName="contacts" x:Name="radEmail" Content="Email" HorizontalAlignment="Left" Margin="10,5,0,5" VerticalAlignment="Top"  FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans"/>
+                        </Viewbox>
+                        <Viewbox Height="37"  HorizontalAlignment="Left" Margin="0,40,0,56">
+                            <RadioButton GroupName="contacts" x:Name="radMobile" Content="Mobile Notification" HorizontalAlignment="Left" Margin="10,5,0,5" VerticalAlignment="Top"  FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans"/>
+                        </Viewbox>
+                        <Viewbox Height="37"  HorizontalAlignment="Left" Margin="0,80,0,16">
+                            <RadioButton GroupName="contacts" x:Name="radSMS" Content="SMS" HorizontalAlignment="Left" Margin="10,5,0,5" VerticalAlignment="Top"  FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans"/>
+                        </Viewbox>
+                    </Grid>
+                </Border>
+                <Label x:Name="labe18" Content="Android ID:" HorizontalAlignment="Left" Margin="10,357,0,0" VerticalAlignment="Top" FontSize="16" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans"/>
+                <TextBox IsReadOnly="True" x:Name="txtAndroidCode" HorizontalAlignment="Left" Padding="5" Height="32" Margin="10,388,0,0"  TextWrapping="Wrap" Text="32 Digit Token" VerticalAlignment="Top" Width="307" FontSize="16" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans" Foreground="#FF595959"/>
+                <Label x:Name="labe19" Content="iOS ID:" HorizontalAlignment="Left" Margin="10,425,0,0" VerticalAlignment="Top" FontSize="16" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans"/>
+                <TextBox IsReadOnly="True" x:Name="txtIosCode" HorizontalAlignment="Left" Padding="5" Height="32" Margin="10,456,0,0"  TextWrapping="Wrap" Text="32 Digit Token" VerticalAlignment="Top" Width="307" FontSize="16" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans" Foreground="#FF595959"/>
+
+            </Grid>
+        </Grid>
+        <Grid Background="#e6e7ed" Height="298" Margin="664,0,0,0" VerticalAlignment="Top">
+            <Grid Background="white" Margin="0,0,0,5">
+                <Label x:Name="label_Copy1" Content="Addres Details" Margin="70,10,70,0" VerticalAlignment="Top" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans" FontSize="24" FontWeight="Bold"/>
+                <ListView BorderBrush="#e6e7ed" x:Name="lvAddresses" Height="242" Margin="0,51,0,0" VerticalAlignment="Top">
+                    <ListView.View>
+                        <GridView>
+                            <GridViewColumn Header="Address" Width="120" DisplayMemberBinding="{Binding Address}" />
+                            <GridViewColumn Header="Suburb" Width="90" DisplayMemberBinding="{Binding Suburb}" />
+                            <GridViewColumn Header="City" Width="80" DisplayMemberBinding="{Binding City}" />
+                        </GridView>
+                    </ListView.View>
+                </ListView>
+            </Grid>
+        </Grid>
+        <Grid Margin="664,298,0,0">
+            <Label x:Name="label_Copy2" Content="Login Details" Margin="77,10,77,0" VerticalAlignment="Top" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans" FontSize="24" FontWeight="Bold"/>
+            <Label x:Name="labe22" Content="Username:" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="16" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans" Margin="10,57,0,0"/>
+            <TextBox  IsReadOnly="True" x:Name="txtUsername" HorizontalAlignment="Left" Padding="5" Height="32" TextWrapping="Wrap" Text="MarnovN" VerticalAlignment="Top" Width="282" FontSize="16" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans" Foreground="#FF595959" Margin="10,88,0,0"/>
+            <Button x:Name="btnEditDetails" Content="Edit" Height="32" HorizontalAlignment="Left" VerticalAlignment="Top" Width="100" FontFamily="PT Sans" FontSize="22" Margin="97,175,0,0" MouseUp="btnEditDetails_MouseUp" />
+        </Grid>
+
+
+
+    </Grid>
+</Window>
+

@@ -1,0 +1,88 @@
+﻿<Window x:Class="SmartHomeSystem.fragments.Clients"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:SmartHomeSystem.fragments"
+      mc:Ignorable="d" 
+      Height="795.45" Width="1490"
+      Title="Clients">
+
+    <Grid x:Name="ClientMain" Background="#e6e7ed" >
+        <Grid HorizontalAlignment="Left" Width="275" Background="White" Margin="6,5,0,5">
+            <Label x:Name="label" Content="Clients" Margin="59,10,95,0" VerticalAlignment="Top" FontSize="36"  Style="{StaticResource PT_Sans_Web_Regular}" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans" Foreground="#FF595959"/>
+            <Label x:Name="lblClientCount" Content="04" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" FontSize="36" Foreground="#FF9CD031" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans"/>
+            <Label x:Name="lblAddNewClient" Content="Add New" HorizontalAlignment="Left" Margin="194,30,0,0" VerticalAlignment="Top" Foreground="#FF9CD031" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans" FontSize="16" MouseUp="lblAddNewClient_MouseUp"/>
+            <TextBox x:Name="txtOperation" HorizontalAlignment="Left" Padding="5" Height="34" TextWrapping="Wrap" Text="Search Clients" VerticalAlignment="Top" Width="255" FontSize="18" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans" Foreground="#FF595959" Margin="10,61,0,0"/>
+            <ListView BorderBrush="#e6e7ed" x:Name="lvClients" ItemsSource="{Binding Path=items}" SelectedItem="{Binding SelectedItem}" Margin="0,108,0,0" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans" PreviewMouseLeftButtonUp="listView_Click">
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Header="Name" Width="160" DisplayMemberBinding="{Binding Name}" />
+                        <GridViewColumn Header="Identifier" Width="105" DisplayMemberBinding="{Binding Identifier}" />
+                    </GridView>
+                </ListView.View>
+            </ListView>
+        </Grid>
+        <Grid Margin="286,5,5,5" Background="White">
+            <Label x:Name="lblClientNameSurname" Content="Marno van Niekerk" HorizontalAlignment="Left" Margin="40,10,0,0" VerticalAlignment="Top" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans" FontSize="36" Foreground="#FF595959"/>
+            <StackPanel HorizontalAlignment="Left" Height="80" Margin="30,10,0,0" VerticalAlignment="Top" Width="5" Background="#FF9CD031"/>
+            <Label x:Name="label4" Content="Phone:" HorizontalAlignment="Left" Margin="45,62,0,0" VerticalAlignment="Top" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans" FontSize="14" Foreground="#FF595959" FontWeight="Bold"/>
+            <Label x:Name="lblClientNumber" Content="071 990 8072" HorizontalAlignment="Left" Margin="97,62,0,0" VerticalAlignment="Top" FontSize="14" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans" Foreground="#FF595959"/>
+            <Label x:Name="label6" Content="Email:" HorizontalAlignment="Left" Margin="227,62,0,0" VerticalAlignment="Top" Foreground="#FF595959" FontSize="14" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans" FontWeight="Bold"/>
+            <Label x:Name="lblClientEmail" Content="marnovn071@gmail.com" HorizontalAlignment="Left" Margin="274,62,0,0" VerticalAlignment="Top" FontSize="14" Foreground="#FF595959" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans"/>
+            <Label x:Name="label8" Content="Details" Width="100" HorizontalContentAlignment="Center" HorizontalAlignment="Left"  VerticalAlignment="Top" Margin="30,113,0,0" Background="#FF9CD031" FontSize="20" MouseDown="label8_MouseDown">
+                <Label.Style>
+                    <Style TargetType="Label">
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Opacity" Value="0.75" />
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </Label.Style>
+            </Label>
+            <Label x:Name="lblAccount" Content="Account" Width="100" HorizontalContentAlignment="Center" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="130,113,0,0" Background="#e6e7ed" FontSize="20" MouseDown="lblAccount_MouseDown">
+                <Label.Style>
+                    <Style TargetType="Label">
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Opacity" Value="0.75" />
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </Label.Style>
+            </Label>
+            <Label x:Name="lblSystems" Content="Systems" Width="100" HorizontalContentAlignment="Center" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="230,113,0,0" Background="#e6e7ed" FontSize="20" MouseDown="lblSystems_MouseDown">
+                <Label.Style>
+                    <Style TargetType="Label">
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Opacity" Value="0.75" />
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </Label.Style>
+            </Label>
+            <Label x:Name="lblAppointments" Content="Appointments" Width="150" HorizontalContentAlignment="Center" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="330,113,0,0" Background="#e6e7ed" FontSize="20" MouseDown="lblAppointments_MouseDown">
+                <Label.Style>
+                    <Style TargetType="Label">
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Opacity" Value="0.75" />
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </Label.Style>
+            </Label>
+            <Grid Background="#e6e7ed" Margin="0,150,0,0">
+                <Grid x:Name="ClientFragmentHolder" Margin="0,5,0,0" Background="white">
+
+                </Grid>
+            </Grid>
+
+
+        </Grid>
+
+
+    </Grid>
+</Window>

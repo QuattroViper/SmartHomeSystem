@@ -1,0 +1,100 @@
+﻿<Window x:Class="SmartHomeSystem.MainScreen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SmartHomeSystem"
+        xmlns:tz="http://schemas.abtsoftware.co.uk/transitionz"
+        mc:Ignorable="d"
+        Title="Home Screen" Height="730.45" Width="1350"
+        x:Name="mainScreen" Closing="mainScreen_Closing"
+        >
+    <Window.Resources>
+        <BooleanToVisibilityConverter x:Key="b2vc"></BooleanToVisibilityConverter>
+    </Window.Resources>
+    <Grid>
+        <Grid Background="#272b40" HorizontalAlignment="Left" Width="81">
+            <Image x:Name="image" Height="107"/>
+            <StackPanel x:Name="spClients" Background="#9cd031" Margin="0,0,0,519" Height="80" VerticalAlignment="Bottom">
+                <Image x:Name="Person" Height="40" Margin="0,5,0,0" Source="assets/ic_person.png"/>
+                <Label x:Name="label" Content="CLIENTS" FontSize="18" Height="43" RenderTransformOrigin="0.7,-0.419" Foreground="#DDFFFFFF" HorizontalAlignment="Center" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans"/>
+                <StackPanel.Style>
+                    <Style TargetType="{x:Type StackPanel}">
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Opacity" Value="0.75" />
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </StackPanel.Style>
+            </StackPanel>
+            <StackPanel Height="80" x:Name="spProducts" Background="#00ffffff" Margin="0,0,0,439" VerticalAlignment="Bottom">
+                <Image x:Name="Product" Height="40" Margin="0,5,0,0" Source="assets/ic_product.png"/>
+                <Label x:Name="lblProduct" Content="PRODUCTS" FontSize="14" Height="43" RenderTransformOrigin="0.7,-0.419" Foreground="#DDFFFFFF" HorizontalAlignment="Center" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans"/>
+                <StackPanel.Style>
+                    <Style TargetType="{x:Type StackPanel}">
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Opacity" Value="0.75" />
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </StackPanel.Style>
+            </StackPanel>
+            <StackPanel x:Name="spScheduler" Height="80" Background="#00ffffff" Margin="0,0,0,359" VerticalAlignment="Bottom">
+                <Image x:Name="Techs" Height="40" Margin="0,5,0,0" Source="assets/ic_memory.png"/>
+                <Label x:Name="Techss" Content="Scheduler" FontSize="17" Height="43" RenderTransformOrigin="0.7,-0.419" Foreground="#DDFFFFFF" HorizontalAlignment="Center" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans"/>
+                <StackPanel.Style>
+                    <Style TargetType="{x:Type StackPanel}">
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Opacity" Value="0.75" />
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </StackPanel.Style>
+
+
+            </StackPanel>
+            <StackPanel x:Name="spCallCentre" Height="80" Background="#00ffffff" Margin="0,0,0,279" VerticalAlignment="Bottom">
+                <Image x:Name="settings" Height="40" Margin="0,5,0,0" Source="assets/ic_settings.png"/>
+                <Label x:Name="setting" Content="CALL CENTER" FontSize="12" Height="43" RenderTransformOrigin="0.7,-0.419" Foreground="#DDFFFFFF" HorizontalAlignment="Center" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans"/>
+                <StackPanel.Style>
+                    <Style TargetType="{x:Type StackPanel}">
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Opacity" Value="0.75" />
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </StackPanel.Style>
+            </StackPanel>
+            <StackPanel x:Name="spLogout" Height="70" Background="#20ffffff" Margin="5,0,5,7" VerticalAlignment="Bottom">
+                <Image x:Name="Signout" Height="35" Margin="0,2,0,0" Source="assets/ic_leave.png"/>
+                <Label x:Name="signoutt" Content="LOGOUT" FontSize="16" Height="43" RenderTransformOrigin="0.7,-0.419" Foreground="#DDFFFFFF" HorizontalAlignment="Center" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans"/>
+                <StackPanel.Style>
+                    <Style TargetType="{x:Type StackPanel}">
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Opacity" Value="0.70" />
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </StackPanel.Style>
+            </StackPanel>
+            <Image Source="assets/LogoSmall.png" x:Name="image1" HorizontalAlignment="Left" Height="100" VerticalAlignment="Top" Width="81" PreviewMouseUp="image1_PreviewMouseUp"/>
+        </Grid>
+        <Grid x:Name="fragmentWindow" Margin="81,0,0,0" >
+
+        </Grid>
+
+        <Grid Visibility="Collapsed"  x:Name="notificationGrid" Margin="955,5,0,568" Background="AntiqueWhite" 
+              tz:Transitionz.Opacity="{tz:OpacityParams From=0, To=1, Duration=300, TransitionOn=Visibility}"
+              tz:Transitionz.Translate="{tz:TranslateParams From='10,0', To='0,0', Duration=300, TransitionOn=Visibility}"
+              tz:Transitionz.Visibility="{Binding NotificationEnabled, Converter={StaticResource b2vc}}"
+              >
+            <TextBlock x:Name="tbNotifyMessage" TextWrapping="WrapWithOverflow" Text="" FontSize="20" RenderTransformOrigin="0.7,-0.419" Foreground="Black" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans" Margin="10,10,19,10" TextAlignment="Center"/>
+        </Grid>
+
+    </Grid>
+</Window>

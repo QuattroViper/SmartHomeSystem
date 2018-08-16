@@ -1,0 +1,14 @@
+﻿<Window x:Class="SmartHomeSystem.fragments.OptionFrags.OptionFunctionAdd"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SmartHomeSystem.fragments.OptionFrags"
+        mc:Ignorable="d"
+        Title="Add function" Height="149.041" Width="852.148" Closing="Window_Closing">
+    <Grid>
+        <TextBox x:Name="txtOptionGuid" Padding="5" Height="32" TextWrapping="Wrap" Text="" VerticalAlignment="Top" FontSize="16" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans" Foreground="#FF595959" Margin="10,10,10,0" TextChanged="txtOptionGuid_TextChanged"/>
+        <Button x:Name="btnAddFunction" Content="Add Function" FontSize="26" Height="38" Margin="338,59,338,0" VerticalAlignment="Top" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans" Click="btnAddFunction_Click"/>
+
+    </Grid>
+</Window>

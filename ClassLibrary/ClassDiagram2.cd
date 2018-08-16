@@ -1,0 +1,449 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ClassLibrary.classes.Account" Collapsed="true">
+    <Position X="6.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kABAIIAAQAAAAAAFgAAACQAEAAgCAoAAAAIIAIAACCA=</HashCode>
+      <FileName>classes\Account.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibrary.classes.ActiveDirectoryEmployee" Collapsed="true">
+    <Position X="9.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAJAGAgIADAAAIAgQQiEAEUEBgAECgKCAAAEgggAAAA=</HashCode>
+      <FileName>classes\ActiveDirectoryEmployee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibrary.classes.Address" Collapsed="true">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AiBAAAAgCAAAAAgMoAAECCAEBAIAQIACAAAAAQAAAAA=</HashCode>
+      <FileName>classes\Address.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibrary.classes.Appointment" Collapsed="true">
+    <Position X="1.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QABBIgAAAgAAAAIEgAAAABAEAAAQQICBAFEgAQBBIQA=</HashCode>
+      <FileName>classes\Appointment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibrary.classes.CallInformation" Collapsed="true">
+    <Position X="15.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QgBICAIAAAACIAQEBAAAAAAEAAAAAAAAAAAAAQBAAAg=</HashCode>
+      <FileName>classes\CallInformation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibrary.classes.Calls" Collapsed="true">
+    <Position X="17.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QEAICAIABAACIAAEAAAAAAAEAAAABAAAAAAAAAAAAAg=</HashCode>
+      <FileName>classes\Calls.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibrary.classes.Card" Collapsed="true">
+    <Position X="19" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MQBEACsAAAKIABEEgAAQAAAEAAAAQIQAAAAAABAAAAA=</HashCode>
+      <FileName>classes\Card.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibrary.classes.Client" Collapsed="true">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABQAAAAQAQAAAAEgAACAAQEQgAAQIAAQEAQQABAEEA=</HashCode>
+      <FileName>classes\Client.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibrary.classes.Configuration" Collapsed="true">
+    <Position X="12" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AkBAAAAAAAAgAAAEoAAAAAAEAAAAAIAAAAAAAAJAAAA=</HashCode>
+      <FileName>classes\Configuration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibrary.classes.Contact" Collapsed="true">
+    <Position X="13.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAhAAAAIQAAAEgAAAAgIEACACQIACAAAAAgAAAAA=</HashCode>
+      <FileName>classes\Contact.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibrary.classes.Contract" Collapsed="true">
+    <Position X="15.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QABAQAAAAAAAAAAAEiAAgBAkAAAAAAAAAAAAAEAAAEA=</HashCode>
+      <FileName>classes\Contract.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibrary.classes.ContractIdentifier" Collapsed="true">
+    <Position X="17.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAABAAAAAAEECAIAAAwCAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>classes\ContractIdentifier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibrary.classes.CustomAttributes" Collapsed="true">
+    <Position X="20.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>classes\CustomAttributes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibrary.classes.databaseMap" Collapsed="true">
+    <Position X="12" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAABAAAAA=</HashCode>
+      <FileName>classes\CustomAttributes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibrary.classes.Employee" Collapsed="true">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAEAAAABAAAEgAAAAAAEAAAAAIAgAAAQIAAAEAA=</HashCode>
+      <FileName>classes\Employee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibrary.classes.GeoData" Collapsed="true">
+    <Position X="15.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IABAAAABAABgAAAEoAAAAAAFABBAAIAAQAAAACAAAAA=</HashCode>
+      <FileName>classes\GeoData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibrary.classes.Global" Collapsed="true">
+    <Position X="17.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAIABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>classes\Global.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibrary.classes.Login" Collapsed="true">
+    <Position X="19" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABEAAoAAIAIAACEgQAAACEEAAAAAIACAAAAAgAEAAA=</HashCode>
+      <FileName>classes\Login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibrary.classes.Offer" Collapsed="true">
+    <Position X="20.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QABAAAAAAAAgACAMoCAAAAAEAAAAAIAAAgAAAEIAAAA=</HashCode>
+      <FileName>classes\Offer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibrary.classes.Option" Collapsed="true">
+    <Position X="0.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgBBIAQgCYAgAIAEogAAAAYEgAAE4IBAgQAABQEAAAQ=</HashCode>
+      <FileName>classes\Option.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ClassLibrary.classes.Person" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EABAEAAAAAAAgACEgAAEkAQEBAAUAIAAAAAAAAAAAgA=</HashCode>
+      <FileName>classes\Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibrary.classes.Product" Collapsed="true">
+    <Position X="6.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AghhAAAIAQEgAIAEsAAIQBSEgAEFCIACAQgAAwAIIAA=</HashCode>
+      <FileName>classes\Product.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ClassLibrary.classes.Schedule" Collapsed="true">
+    <Position X="17.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAEgAEAAAAFAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>classes\Schedule.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibrary.classes.ServiceDelivery" Collapsed="true">
+    <Position X="19" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAUAEAAAABAAgAAAAAIACAAAAAAA=</HashCode>
+      <FileName>classes\ServiceDelivery.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibrary.classes.Status" Collapsed="true">
+    <Position X="20.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAABCAAAAQACEgIAEABAEBAAAAIABAAAAAUAAAAA=</HashCode>
+      <FileName>classes\Status.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibrary.classes.System" Collapsed="true">
+    <Position X="3.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AERAAAAEAAAAAAAEgAAAAAAEAAAAAIAAAAAIAABACAA=</HashCode>
+      <FileName>classes\System.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibrary.classes.SystemLogins" Collapsed="true">
+    <Position X="12" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgRAAACEAAAAgAAAAAAAAAAEABQBAAAEAQAAAQAAQQA=</HashCode>
+      <FileName>classes\SystemLogins.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibrary.classes.TechnicianSchedule" Collapsed="true">
+    <Position X="15.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIBAAAAAAgAAAAAAAAAAAAAEAgAAQAAAAQAAAAEAAAA=</HashCode>
+      <FileName>classes\TechnicianSchedule.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibrary.classes.Combined.AppointmentPriority" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAQAAAQEAAAAAAAAAAAAAAAAAABAAACAAAA=</HashCode>
+      <FileName>classes\Combined\AppointmentPriority.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ClassLibrary.classes.Combined.AppointmentTechnician" Collapsed="true">
+    <Position X="13.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>classes\Combined\AppointmentTechnician.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibrary.classes.Combined.OptionProduct" Collapsed="true">
+    <Position X="12" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgBQAAABAAEAIAIAAAACAAAMAAAAAAAAAAAAAQAIAAA=</HashCode>
+      <FileName>classes\Combined\OptionProduct.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibrary.classes.Combined.SystemOption" Collapsed="true">
+    <Position X="13.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgBAAAgAAAAIIAAAAAAAAgAMAAAAAAAAgAAAAQAIAAA=</HashCode>
+      <FileName>classes\Combined\SystemOption.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibrary.classes.Combined.TechnicianDBInfo" Collapsed="true">
+    <Position X="9.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAQAEAAAAAAAAAAEAAAAAACA=</HashCode>
+      <FileName>classes\Combined\TechnicianDBInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibrary.classes.derived.AccountGuid" Collapsed="true">
+    <Position X="5.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>classes\derived\AccountGuid.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibrary.classes.derived.ClientList" Collapsed="true">
+    <Position X="5.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAACAAEAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>classes\derived\ClientList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibrary.classes.lazyLoad.client.AccountLazy" Collapsed="true">
+    <Position X="7.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQIAAACAAIAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>classes\lazyLoad\client\AccountLazy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ClassLibrary.classes.lazyLoad.client.AppointmentLazy" Collapsed="true">
+    <Position X="2.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAIAAAAAAIAAAAAAAAAEAAQAAAAAAAAAA=</HashCode>
+      <FileName>classes\lazyLoad\client\AppointmentLazy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ClassLibrary.classes.lazyLoad.client.ClientLazy" Collapsed="true">
+    <Position X="7.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAACAAIAAAAAJAAAQAQIAAAAAAQAAAAEAgAAAAAAAAA=</HashCode>
+      <FileName>classes\lazyLoad\client\ClientLazy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ClassLibrary.classes.lazyLoad.client.DetailsLazy" Collapsed="true">
+    <Position X="3" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIABIAQAIQAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>classes\lazyLoad\client\DetailsLazy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ClassLibrary.classes.lazyLoad.client.OptionLazy" Collapsed="true">
+    <Position X="0.5" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAFAABAAQIAAAAIAIAAAAAAAAEAAAQAAAAAAAAAA=</HashCode>
+      <FileName>classes\lazyLoad\client\OptionLazy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ClassLibrary.classes.lazyLoad.client.ProductLazy" Collapsed="true">
+    <Position X="6.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAIAAAAAAEAAAABAAAAABAAAIA=</HashCode>
+      <FileName>classes\lazyLoad\client\ProductLazy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ClassLibrary.classes.lazyLoad.client.SystemLazy" Collapsed="true">
+    <Position X="3.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAoAAAAAAAAAAAAAEAAAABAAAA=</HashCode>
+      <FileName>classes\lazyLoad\client\SystemLazy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ClassLibrary.classes.Lists.AppointmentList" Collapsed="true">
+    <Position X="0.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABACAAAQAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>classes\Lists\AppointmentList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibrary.classes.validation.OptionValidation&lt;T&gt;" Collapsed="true">
+    <Position X="13.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>classes\validation\OptionValidation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibrary.functions.CatchInserts" Collapsed="true">
+    <Position X="20.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>functions\CatchInserts.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibrary.functions.Cryptography" Collapsed="true">
+    <Position X="19" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>functions\Cryptography.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibrary.functions.RijndaelEnhanced" Collapsed="true">
+    <Position X="15.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAoAAAAAAIBAAQAACAAhBAACAACgABAAAAAEAABAA=</HashCode>
+      <FileName>functions\Cryptography.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibrary.functions.functions" Collapsed="true">
+    <Position X="13.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>functions\functions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="ClassLibrary.functions.QueryStrings" Collapsed="true">
+    <Position X="13.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAQAAgAAAAAAAAAAAAAAAAAAAAAAEAgAAAAAAAAABA=</HashCode>
+      <FileName>functions\QueryStrings.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ClassLibrary.interfaces.Id&lt;T&gt;" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="17.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAIAAAAA=</HashCode>
+      <FileName>interfaces\IId.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Struct>
+  <Struct Name="ClassLibrary.interfaces.Person" Collapsed="true">
+    <Position X="20.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>interfaces\IId.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ClassLibrary.interfaces.Product" Collapsed="true">
+    <Position X="12" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>interfaces\IId.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ClassLibrary.interfaces.Location" Collapsed="true">
+    <Position X="19" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>interfaces\IId.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ClassLibrary.interfaces.Client" Collapsed="true">
+    <Position X="13.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>interfaces\IId.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ClassLibrary.interfaces.Employee" Collapsed="true">
+    <Position X="15.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>interfaces\IId.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ClassLibrary.interfaces.Address" Collapsed="true">
+    <Position X="12" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>interfaces\IId.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Interface Name="ClassLibrary.classes.lazyLoad.client.ILazyLoad&lt;T&gt;" Collapsed="true">
+    <Position X="13.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>classes\lazyLoad\client\ILazyLoad.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ClassLibrary.classes.lazyLoad.client.ILazyLoadAll&lt;T&gt;" Collapsed="true">
+    <Position X="15.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>classes\lazyLoad\client\ILazyLoad.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ClassLibrary.classes.lazyLoad.client.ILazyLoadTwo&lt;T&gt;" Collapsed="true">
+    <Position X="17.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>classes\lazyLoad\client\ILazyLoad.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ClassLibrary.interfaces.IId" Collapsed="true">
+    <Position X="12" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>interfaces\IId.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="ClassLibrary.classes.Terrian" Collapsed="true">
+    <Position X="12" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAgAAIAAAACAAAAAQAAAAAAgAAAACAAAAAAGCAE=</HashCode>
+      <FileName>classes\GeoData.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ClassLibrary.classes.Weather" Collapsed="true">
+    <Position X="13.75" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACBQAABAAAAAAABICAQAAAAABEAAAAAAAAAAAA=</HashCode>
+      <FileName>classes\GeoData.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

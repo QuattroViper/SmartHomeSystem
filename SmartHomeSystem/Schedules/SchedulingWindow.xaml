@@ -1,0 +1,72 @@
+﻿<Window x:Class="SmartHomeSystem.Schedules.SchedulingWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SmartHomeSystem.Schedules"
+        mc:Ignorable="d"
+        Title="SchedulingWindow" Height="795.45" Width="1259" Closing="Window_Closing">
+    <Grid Background="#e6e7ed" x:Name="SchedulerMain">
+        <Grid HorizontalAlignment="Left" Margin="5,5,0,5" Width="850" Background="white">
+            <Label x:Name="label" Content="Active Technicians" Margin="10,10,0,0" VerticalAlignment="Top" FontSize="25" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans" Foreground="#FF595959" HorizontalAlignment="Left" Width="213"/>
+            <ListView x:Name="lvActiveTechnicions" HorizontalAlignment="Left" BorderBrush="LightGray" Margin="10,52,0,10" Width="213" PreviewMouseUp="lvActiveTechnicions_PreviewMouseUp">
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Header="Name" Width="200" DisplayMemberBinding="{Binding Key.Name}" />
+
+                    </GridView>
+                </ListView.View>
+            </ListView>
+            <Label x:Name="label1" Content="Current Appointment Details" Margin="359,10,0,0" VerticalAlignment="Top" FontSize="25" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans" Foreground="#FF595959" HorizontalAlignment="Left" Width="323"/>
+
+            <Border BorderBrush="LightGray" BorderThickness="1" HorizontalAlignment="Left" Margin="246,52,0,10" Width="582">
+                <Grid>
+                    <TextBox TextWrapping="Wrap" x:Name="tbExtraDtails" IsEnabled="false" BorderBrush="LightGray"  Text=""  AcceptsReturn="True" Margin="10,285,0,0" Foreground="#FF595959" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans" FontSize="16" HorizontalAlignment="Left" Width="549" Height="121" VerticalAlignment="Top"/>
+                    <Label x:Name="labe18" Content="Extra Details:" HorizontalAlignment="Left" Margin="10,254,0,0" VerticalAlignment="Top" FontSize="16" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans"/>
+                    <Label x:Name="labe18_Copy" Content="Appointment Date and Time:" HorizontalAlignment="Left" Margin="10,21,0,0" VerticalAlignment="Top" FontSize="16" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans"/>
+                    <DatePicker Visibility="Hidden" HorizontalAlignment="Left" Margin="10,76,0,0" VerticalAlignment="Top" Padding="4" FontSize="16" Height="32" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans" Width="307" SelectedDateFormat="Long" Foreground="#FF595959" BorderBrush="#FFABADB3"/>
+                    <TextBox x:Name="txtDate" IsReadOnly="True" BorderBrush="LightGray" Text="" HorizontalAlignment="Left" Padding="5" Height="34" TextWrapping="Wrap" VerticalAlignment="Top" Width="307" FontSize="16" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans" Foreground="#FF595959" Margin="10,52,0,0"/>
+                    <DatePicker Visibility="Hidden" HorizontalAlignment="Left" Margin="10,76,0,0" VerticalAlignment="Top" Padding="4" FontSize="16" Height="32" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans" Width="307" SelectedDateFormat="Long" Foreground="#FF595959" BorderBrush="#FFABADB3"/>
+                    <Label x:Name="labe18_Copy1" Content="Operation:" HorizontalAlignment="Left" Margin="10,91,0,0" VerticalAlignment="Top" FontSize="16" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans"/>
+                    <Label x:Name="labe18_Copy4" Content="Cost of Appointment:" HorizontalAlignment="Left" Margin="10,161,0,0" VerticalAlignment="Top" FontSize="16" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans"/>
+                    <TextBox IsReadOnly="True" BorderBrush="LightGray" Text=""   x:Name="txtCost" HorizontalAlignment="Left" Padding="4" Height="32" TextWrapping="Wrap" VerticalAlignment="Top" Width="307" FontSize="16" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans" Foreground="#FF595959" Margin="10,192,0,0"/>
+                    <Label x:Name="labe19" Content="Priority Level:" HorizontalAlignment="Left" Margin="361,161,0,0" VerticalAlignment="Top" FontSize="16" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans"/>
+                    <TextBox IsReadOnly="True" BorderBrush="LightGray" Text=""   x:Name="txtPriority" HorizontalAlignment="Left" Padding="4" Height="32" TextWrapping="Wrap" VerticalAlignment="Top" Width="198" FontSize="16" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans" Foreground="#FF595959" Margin="361,192,0,0"/>
+                    <TextBox x:Name="txtOperation" IsReadOnly="True" BorderBrush="LightGray" Text=""  HorizontalAlignment="Left" Padding="5" Height="34" TextWrapping="Wrap" VerticalAlignment="Top" Width="307" FontSize="16" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans" Foreground="#FF595959" Margin="10,122,0,0"/>
+                    <Viewbox IsEnabled="False" Margin="361,58,0,0" HorizontalAlignment="Left" Width="249" Height="34" VerticalAlignment="Top" >
+                        <CheckBox x:Name="chkConfirmed"  Content="Appointment confirmed?" Margin="0,3,50,3" HorizontalAlignment="Left" VerticalAlignment="Top" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans" />
+                    </Viewbox>
+                    <Viewbox IsEnabled="False" Margin="361,111,0,0" Height="34" VerticalAlignment="Top" HorizontalAlignment="Left" Width="249" >
+                        <CheckBox x:Name="chkCompleted"  Content="Appointment completed?" Margin="0,3,50,3" HorizontalAlignment="Left" VerticalAlignment="Top" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans" />
+                    </Viewbox>
+
+                    <Label x:Name="labe110" Content="Client Fullname:" HorizontalAlignment="Left" Margin="10,447,0,0" VerticalAlignment="Top" FontSize="16" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans"/>
+                    <TextBox IsReadOnly="True" BorderBrush="LightGray" Text=""   x:Name="txtNameAndSurname" HorizontalAlignment="Left" Padding="4" Height="32" TextWrapping="Wrap" VerticalAlignment="Top" Width="307" FontSize="16" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans" Foreground="#FF595959" Margin="10,478,0,0"/>
+
+                    <Label x:Name="labe111" Content="Client ID:" HorizontalAlignment="Left" Margin="10,515,0,0" VerticalAlignment="Top" FontSize="16" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans"/>
+                    <TextBox IsReadOnly="True" BorderBrush="LightGray" Text=""   x:Name="txtClientID" HorizontalAlignment="Left" Padding="4" Height="32" TextWrapping="Wrap" VerticalAlignment="Top" Width="307" FontSize="16" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans" Foreground="#FF595959" Margin="10,546,0,0"/>
+
+                    <Label x:Name="labe112" Content="Client Identifier:" HorizontalAlignment="Left" Margin="361,447,0,0" VerticalAlignment="Top" FontSize="16" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans"/>
+                    <TextBox IsReadOnly="True" BorderBrush="LightGray" Text=""   x:Name="txtClientIdenficator" HorizontalAlignment="Left" Padding="4" Height="32" TextWrapping="Wrap" VerticalAlignment="Top" Width="198" FontSize="16" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans" Foreground="#FF595959" Margin="361,478,0,0"/>
+
+                </Grid>
+
+            </Border>
+        </Grid>
+        <Grid Margin="860,5,5,5" Background="White">
+            <Label x:Name="label100" Content="Unassigned Appointments" Margin="55,10,0,0" VerticalAlignment="Top" FontSize="25"  Style="{StaticResource PT_Sans_Web_Regular}" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans" Foreground="#FF595959" HorizontalAlignment="Left" Width="300"/>
+            <ListView x:Name="lvUnassignedAppointments" BorderBrush="LightGray" Margin="10,57,10,10" PreviewMouseUp="lvUnassignedAppointments_PreviewMouseUp">
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Header="Priority" Width="60" DisplayMemberBinding="{Binding Priority}" />
+                        <GridViewColumn Header="Operation" Width="150" DisplayMemberBinding="{Binding Operation}" />
+                        <GridViewColumn Header="Date" Width="140" DisplayMemberBinding="{Binding Time}" />
+                    </GridView>
+                </ListView.View>
+            </ListView>
+
+        </Grid>
+
+
+    </Grid>
+</Window>

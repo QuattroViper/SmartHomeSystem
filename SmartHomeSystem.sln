@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartHomeSystem", "SmartHomeSystem\SmartHomeSystem.csproj", "{97AD0868-AF24-4A2E-9C57-EC745C5A1217}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary", "ClassLibrary\ClassLibrary.csproj", "{6B2E1A4C-716D-474B-B952-D14E0F8E9B9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{4886F809-C3FF-4066-8C70-D887736E07CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErrorHandler", "ErrorHandle\ErrorHandler.csproj", "{1E71F712-1B08-44D2-8DE4-C7E9F04870B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileAccess", "FileAccess\FileAccess.csproj", "{C633FCF8-DB53-4FAF-A353-C0EAA330C579}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testing", "testing\testing.csproj", "{31951681-39F8-45E4-99ED-A40585FD10B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventBus", "EventBus\EventBus.csproj", "{60FB5D7B-9036-48FB-BB60-0E38BFBEC182}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97AD0868-AF24-4A2E-9C57-EC745C5A1217}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97AD0868-AF24-4A2E-9C57-EC745C5A1217}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97AD0868-AF24-4A2E-9C57-EC745C5A1217}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97AD0868-AF24-4A2E-9C57-EC745C5A1217}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B2E1A4C-716D-474B-B952-D14E0F8E9B9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B2E1A4C-716D-474B-B952-D14E0F8E9B9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B2E1A4C-716D-474B-B952-D14E0F8E9B9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B2E1A4C-716D-474B-B952-D14E0F8E9B9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4886F809-C3FF-4066-8C70-D887736E07CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4886F809-C3FF-4066-8C70-D887736E07CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4886F809-C3FF-4066-8C70-D887736E07CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4886F809-C3FF-4066-8C70-D887736E07CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E71F712-1B08-44D2-8DE4-C7E9F04870B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E71F712-1B08-44D2-8DE4-C7E9F04870B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E71F712-1B08-44D2-8DE4-C7E9F04870B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E71F712-1B08-44D2-8DE4-C7E9F04870B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C633FCF8-DB53-4FAF-A353-C0EAA330C579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C633FCF8-DB53-4FAF-A353-C0EAA330C579}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C633FCF8-DB53-4FAF-A353-C0EAA330C579}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C633FCF8-DB53-4FAF-A353-C0EAA330C579}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31951681-39F8-45E4-99ED-A40585FD10B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31951681-39F8-45E4-99ED-A40585FD10B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31951681-39F8-45E4-99ED-A40585FD10B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31951681-39F8-45E4-99ED-A40585FD10B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60FB5D7B-9036-48FB-BB60-0E38BFBEC182}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60FB5D7B-9036-48FB-BB60-0E38BFBEC182}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60FB5D7B-9036-48FB-BB60-0E38BFBEC182}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60FB5D7B-9036-48FB-BB60-0E38BFBEC182}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

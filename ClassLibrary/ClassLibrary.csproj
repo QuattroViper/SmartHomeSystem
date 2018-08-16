@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6B2E1A4C-716D-474B-B952-D14E0F8E9B9A}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ClassLibrary</RootNamespace>
+    <AssemblyName>ClassLibrary</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.DirectoryServices.AccountManagement" />
+    <Reference Include="System.Net" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="classes\Account.cs" />
+    <Compile Include="classes\ActiveDirectoryEmployee.cs" />
+    <Compile Include="classes\Address.cs" />
+    <Compile Include="classes\Appointment.cs" />
+    <Compile Include="classes\CallInformation.cs" />
+    <Compile Include="classes\Calls.cs" />
+    <Compile Include="classes\Card.cs" />
+    <Compile Include="classes\Client.cs" />
+    <Compile Include="classes\Combined\AppointmentPriority.cs" />
+    <Compile Include="classes\Combined\AppointmentTechnician.cs" />
+    <Compile Include="classes\Combined\OptionProduct.cs" />
+    <Compile Include="classes\Combined\SystemOption.cs" />
+    <Compile Include="classes\Combined\TechnicianDBInfo.cs" />
+    <Compile Include="classes\ContractIdentifier.cs" />
+    <Compile Include="classes\derived\ClientList.cs" />
+    <Compile Include="classes\Configuration.cs" />
+    <Compile Include="classes\Contact.cs" />
+    <Compile Include="classes\Contract.cs" />
+    <Compile Include="classes\CustomAttributes.cs" />
+    <Compile Include="classes\derived\AccountGuid.cs" />
+    <Compile Include="classes\Employee.cs" />
+    <Compile Include="classes\GeoData.cs" />
+    <Compile Include="classes\Global.cs" />
+    <Compile Include="classes\lazyLoad\client\AccountLazy.cs" />
+    <Compile Include="classes\lazyLoad\client\AppointmentLazy.cs" />
+    <Compile Include="classes\lazyLoad\client\ClientLazy.cs" />
+    <Compile Include="classes\lazyLoad\client\DetailsLazy.cs" />
+    <Compile Include="classes\lazyLoad\client\ILazyLoad.cs" />
+    <Compile Include="classes\lazyLoad\client\OptionLazy.cs" />
+    <Compile Include="classes\lazyLoad\client\ProductLazy.cs" />
+    <Compile Include="classes\lazyLoad\client\SystemLazy.cs" />
+    <Compile Include="classes\Lists\AppointmentList.cs" />
+    <Compile Include="classes\Login.cs" />
+    <Compile Include="classes\Offer.cs" />
+    <Compile Include="classes\Option.cs" />
+    <Compile Include="classes\Person.cs" />
+    <Compile Include="classes\Product.cs" />
+    <Compile Include="classes\Schedule.cs" />
+    <Compile Include="classes\ServiceDelivery.cs" />
+    <Compile Include="classes\Status.cs" />
+    <Compile Include="classes\System.cs" />
+    <Compile Include="classes\SystemLogins.cs" />
+    <Compile Include="classes\TechnicianSchedule.cs" />
+    <Compile Include="classes\validation\OptionValidation.cs" />
+    <Compile Include="functions\CatchInserts.cs" />
+    <Compile Include="functions\Cryptography.cs" />
+    <Compile Include="functions\functions.cs" />
+    <Compile Include="functions\QueryStrings.cs" />
+    <Compile Include="interfaces\IId.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="ClassDiagram2.cd" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DataAccess\DataAccess.csproj">
+      <Project>{4886f809-c3ff-4066-8c70-d887736e07cf}</Project>
+      <Name>DataAccess</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ErrorHandle\ErrorHandler.csproj">
+      <Project>{1E71F712-1B08-44D2-8DE4-C7E9F04870B8}</Project>
+      <Name>ErrorHandler</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EventBus\EventBus.csproj">
+      <Project>{60FB5D7B-9036-48FB-BB60-0E38BFBEC182}</Project>
+      <Name>EventBus</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,4060 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<DynamicHelp xmlns="http://msdn.microsoft.com/vsdata/xsd/vsdh.xsd" xmlns:xsi="http://www.w3.org/2000/10/XMLSchema-instance" xsi:schemaLocation="http://msdn.microsoft.com/vsdata/xsd/vsdh.xsd">	
+   <LINKGROUP ID="SmartHomeSystem" Title="SOLUTION-WIDE PROPERTIES Reference Help" Priority="2100">
+      <GLYPH Expanded="vs:/ctxhelp_show.gif" Collapsed="vs:/ctxhelp_hide.gif"/>
+   </LINKGROUP>
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Account.Account" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000028_overloads--.html" LinkGroup="SmartHomeSystem">Account Constructor</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Account.Account" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000029_overloads--.html" LinkGroup="SmartHomeSystem">Account Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Account" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000027.html" LinkGroup="SmartHomeSystem">Account Class {ClassLibrary.classes}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SmartHomeSystem.fragments.ClientsFrags.Account" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000007.html" LinkGroup="SmartHomeSystem">Account Class {SmartHomeSystem.fragments.ClientsFrags}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SmartHomeSystem.fragments.ClientsFrags.Account.Account" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000008.html" LinkGroup="SmartHomeSystem">Account Constructor {SmartHomeSystem.fragments.ClientsFrags.Account}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Client.Account" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000006F.html" LinkGroup="SmartHomeSystem">Account Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="DataAccess.QueryBuilder.ClientInsertQuery.AccountGUID" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000187.html" LinkGroup="SmartHomeSystem">AccountGUID Field</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.derived.AccountGuid" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000009E.html" LinkGroup="SmartHomeSystem">AccountGuid Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.derived.AccountGuid.AccountGuid" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000009F.html" LinkGroup="SmartHomeSystem">AccountGuid Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="DataAccess.QueryBuilder.ClientInsertQuery.AccountType" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000188.html" LinkGroup="SmartHomeSystem">AccountType Field</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Account.AccountType" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000030.html" LinkGroup="SmartHomeSystem">AccountType Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Employee.Active" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000000A6.html" LinkGroup="SmartHomeSystem">Active Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Product.AddProduct" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000128.html" LinkGroup="SmartHomeSystem">AddProduct Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Address.Address" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000003A_overloads--.html" LinkGroup="SmartHomeSystem">Address Constructor</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Address.Address" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000003B_overloads--.html" LinkGroup="SmartHomeSystem">Address Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Address" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000039.html" LinkGroup="SmartHomeSystem">Address Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.interfaces.Address" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000162.html" LinkGroup="SmartHomeSystem">Address Structure</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="DataAccess.QueryBuilder.ClientInsertQuery.Address1" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000199.html" LinkGroup="SmartHomeSystem">Address1 Field</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Address.Address1" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000043.html" LinkGroup="SmartHomeSystem">Address1 Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="DataAccess.QueryBuilder.ClientInsertQuery.Address2" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000019A.html" LinkGroup="SmartHomeSystem">Address2 Field</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Address.Address2" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000042.html" LinkGroup="SmartHomeSystem">Address2 Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="DataAccess.QueryBuilder.ClientInsertQuery.AddressGuid" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000198.html" LinkGroup="SmartHomeSystem">AddressGuid Field</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Client.Addresses" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000071.html" LinkGroup="SmartHomeSystem">Addresses Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="DataAccess.QueryBuilder.ClientInsertQuery.AndroidDeviceID" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000196.html" LinkGroup="SmartHomeSystem">AndroidDeviceID Field</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Contact.AndroidDeviceID" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000089.html" LinkGroup="SmartHomeSystem">AndroidDeviceID Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SmartHomeSystem.App" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000001.html" LinkGroup="SmartHomeSystem">App Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="DataAccess.QueryBuilder.ClientInsertQuery.AppleDeviceID" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000197.html" LinkGroup="SmartHomeSystem">AppleDeviceID Field</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Contact.AppleDeviceID" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000087.html" LinkGroup="SmartHomeSystem">AppleDeviceID Property</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Appointment.Appointment" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000049_overloads--.html" LinkGroup="SmartHomeSystem">Appointment Constructor</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Appointment.Appointment" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000004A_overloads--.html" LinkGroup="SmartHomeSystem">Appointment Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Appointment" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000048.html" LinkGroup="SmartHomeSystem">Appointment Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Product.ArrivalDate" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000011C.html" LinkGroup="SmartHomeSystem">ArrivalDate Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Status.AverageEnergyUsage" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000136.html" LinkGroup="SmartHomeSystem">AverageEnergyUsage Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Status.AverageTemperature" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000137.html" LinkGroup="SmartHomeSystem">AverageTemperature Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.GeoData.AverageWeather" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000000B7.html" LinkGroup="SmartHomeSystem">AverageWeather Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Card.Bank" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000005B.html" LinkGroup="SmartHomeSystem">Bank Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Account.BillsDirectory" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000002E.html" LinkGroup="SmartHomeSystem">BillsDirectory Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Card.CVVNumber" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000005D.html" LinkGroup="SmartHomeSystem">CVVNumber Property</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Card.Card" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000058_overloads--.html" LinkGroup="SmartHomeSystem">Card Constructor</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Card.Card" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000005A_overloads--.html" LinkGroup="SmartHomeSystem">Card Constructor</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Card.Card" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000059_overloads--.html" LinkGroup="SmartHomeSystem">Card Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Card" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000057.html" LinkGroup="SmartHomeSystem">Card Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Account.Card" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000002A.html" LinkGroup="SmartHomeSystem">Card Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="DataAccess.QueryBuilder.ClientInsertQuery.CardEncryptedString" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000018D.html" LinkGroup="SmartHomeSystem">CardEncryptedString Field</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Card.CardHolder" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000005E.html" LinkGroup="SmartHomeSystem">CardHolder Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Card.CardNumber" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000060.html" LinkGroup="SmartHomeSystem">CardNumber Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Status.Citical" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000013A.html" LinkGroup="SmartHomeSystem">Citical Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="DataAccess.QueryBuilder.ClientInsertQuery.City" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000019D.html" LinkGroup="SmartHomeSystem">City Field</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Address.City" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000040.html" LinkGroup="SmartHomeSystem">City Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000026.html" LinkGroup="SmartHomeSystem">ClassLibrary.classes Namespace</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.derived" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000009D.html" LinkGroup="SmartHomeSystem">ClassLibrary.classes.derived Namespace</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.lazyLoad.client" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000000D3.html" LinkGroup="SmartHomeSystem">ClassLibrary.classes.lazyLoad.client Namespace</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.functions" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000154.html" LinkGroup="SmartHomeSystem">ClassLibrary.functions Namespace</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.interfaces" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000158.html" LinkGroup="SmartHomeSystem">ClassLibrary.interfaces Namespace</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Client.Client" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000069_overloads--.html" LinkGroup="SmartHomeSystem">Client Constructor</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Client.Client" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000006C_overloads--.html" LinkGroup="SmartHomeSystem">Client Constructor</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Client.Client" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000006A_overloads--.html" LinkGroup="SmartHomeSystem">Client Constructor</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Client.Client" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000006B_overloads--.html" LinkGroup="SmartHomeSystem">Client Constructor</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Client.Client" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000006D_overloads--.html" LinkGroup="SmartHomeSystem">Client Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Client" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000068.html" LinkGroup="SmartHomeSystem">Client Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.interfaces.Client" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000160.html" LinkGroup="SmartHomeSystem">Client Structure</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="DataAccess.QueryBuilder.ClientInsertQuery.ClientGUID" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000186.html" LinkGroup="SmartHomeSystem">ClientGUID Field</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Appointment.ClientGUID" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000004F.html" LinkGroup="SmartHomeSystem">ClientGUID Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Client.ClientIdetifier" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000070.html" LinkGroup="SmartHomeSystem">ClientIdetifier Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="DataAccess.QueryBuilder.ClientInsertQuery" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000184.html" LinkGroup="SmartHomeSystem">ClientInsertQuery Structure</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.derived.ClientList.ClientList" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000000A1_overloads--.html" LinkGroup="SmartHomeSystem">ClientList Constructor</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.derived.ClientList.ClientList" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000000A2_overloads--.html" LinkGroup="SmartHomeSystem">ClientList Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.derived.ClientList" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000000A0.html" LinkGroup="SmartHomeSystem">ClientList Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SmartHomeSystem.fragments.ClientsFrags.ClientOptions" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000000A.html" LinkGroup="SmartHomeSystem">ClientOptions Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SmartHomeSystem.fragments.ClientsFrags.ClientOptions.ClientOptions" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000000B.html" LinkGroup="SmartHomeSystem">ClientOptions Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SmartHomeSystem.fragments.ClientsFrags.ClientOptionsFrags.ClientOptionsOptionxaml" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000000D.html" LinkGroup="SmartHomeSystem">ClientOptionsOptionxaml Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SmartHomeSystem.fragments.ClientsFrags.ClientOptionsFrags.ClientOptionsOptionxaml.ClientOptionsOptionxaml" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000000E.html" LinkGroup="SmartHomeSystem">ClientOptionsOptionxaml Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SmartHomeSystem.fragments.ClientsFrags.ClientOptionsFrags.ClientOptionsProduct" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000010.html" LinkGroup="SmartHomeSystem">ClientOptionsProduct Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SmartHomeSystem.fragments.ClientsFrags.ClientOptionsFrags.ClientOptionsProduct.ClientOptionsProduct" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000011.html" LinkGroup="SmartHomeSystem">ClientOptionsProduct Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SmartHomeSystem.fragments.Clients" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000003.html" LinkGroup="SmartHomeSystem">Clients Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SmartHomeSystem.fragments.Clients.Clients" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000004.html" LinkGroup="SmartHomeSystem">Clients Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.derived.ClientList.Clients" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000000A3.html" LinkGroup="SmartHomeSystem">Clients Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Appointment.Completed" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000004B.html" LinkGroup="SmartHomeSystem">Completed Property</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Configuration.Configuration" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000007A_overloads--.html" LinkGroup="SmartHomeSystem">Configuration Constructor</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Configuration.Configuration" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000007B_overloads--.html" LinkGroup="SmartHomeSystem">Configuration Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Configuration" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000079.html" LinkGroup="SmartHomeSystem">Configuration Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Configuration.ConfigurationCode" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000007C.html" LinkGroup="SmartHomeSystem">ConfigurationCode Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SmartHomeSystem.fragments.ClientsFrags.Configurations" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000013.html" LinkGroup="SmartHomeSystem">Configurations Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SmartHomeSystem.fragments.ClientsFrags.Configurations.Configurations" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000014.html" LinkGroup="SmartHomeSystem">Configurations Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Appointment.Confirmed" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000004C.html" LinkGroup="SmartHomeSystem">Confirmed Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="DataAccess.DataHandlerHelper.Connection" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000175.html" LinkGroup="SmartHomeSystem">Connection Enumeration</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="DataAccess.DataHandlerHelper.ConnectionStringOne" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000017C.html" LinkGroup="SmartHomeSystem">ConnectionStringOne Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="DataAccess.DataHandlerHelper.ConnectionStringTwo" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000017B.html" LinkGroup="SmartHomeSystem">ConnectionStringTwo Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="DataAccess.DataHandlerHelper.ConnectionToUse" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000179.html" LinkGroup="SmartHomeSystem">ConnectionToUse Property</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Contact.Contact" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000084_overloads--.html" LinkGroup="SmartHomeSystem">Contact Constructor</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Contact.Contact" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000085_overloads--.html" LinkGroup="SmartHomeSystem">Contact Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Contact" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000083.html" LinkGroup="SmartHomeSystem">Contact Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Client.ContactDetails" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000006E.html" LinkGroup="SmartHomeSystem">ContactDetails Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="DataAccess.QueryBuilder.ClientInsertQuery.ContactGUID" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000193.html" LinkGroup="SmartHomeSystem">ContactGUID Field</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Contact.ContactMethods" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000088.html" LinkGroup="SmartHomeSystem">ContactMethods Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="DataAccess.QueryBuilder.ClientInsertQuery.ContactNumber" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000194.html" LinkGroup="SmartHomeSystem">ContactNumber Field</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Contact.ContactNumber" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000008B.html" LinkGroup="SmartHomeSystem">ContactNumber Property</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Contract.Contract" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000090_overloads--.html" LinkGroup="SmartHomeSystem">Contract Constructor</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Contract.Contract" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000091_overloads--.html" LinkGroup="SmartHomeSystem">Contract Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Contract" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000008F.html" LinkGroup="SmartHomeSystem">Contract Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.System.Contract" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000144.html" LinkGroup="SmartHomeSystem">Contract Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Contract.ContractIdentifier" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000096.html" LinkGroup="SmartHomeSystem">ContractIdentifier Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Appointment.Cost" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000004E.html" LinkGroup="SmartHomeSystem">Cost Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="DataAccess.QueryBuilder.ClientInsertQuery.CostPerMonth" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000189.html" LinkGroup="SmartHomeSystem">CostPerMonth Field</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Account.CostPerMonth" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000002F.html" LinkGroup="SmartHomeSystem">CostPerMonth Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="DataAccess.QueryBuilder.ClientInsertQuery.Country" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000019E.html" LinkGroup="SmartHomeSystem">Country Field</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Address.Country" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000003F.html" LinkGroup="SmartHomeSystem">Country Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="DataAccess.QueryBuilder.ClientInsertQuery.Credit" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000018B.html" LinkGroup="SmartHomeSystem">Credit Field</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Account.Credit" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000002C.html" LinkGroup="SmartHomeSystem">Credit Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.databaseMap.DBColumn" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000009C.html" LinkGroup="SmartHomeSystem">DBColumn Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="DataAccess" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000163.html" LinkGroup="SmartHomeSystem">DataAccess Namespace</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="DataAccess.DataHandler.DataConverter" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000016E.html" LinkGroup="SmartHomeSystem">DataConverter Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="DataAccess.DataHandler" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000016B.html" LinkGroup="SmartHomeSystem">DataHandler Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="DataAccess.DataHandler.DataHandler" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000016C.html" LinkGroup="SmartHomeSystem">DataHandler Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="DataAccess.DataHandlerHelper" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000174.html" LinkGroup="SmartHomeSystem">DataHandlerHelper Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="DataAccess.DataHandlerHelper.DataHandlerHelper" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000178.html" LinkGroup="SmartHomeSystem">DataHandlerHelper Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="DataAccess.Database" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000001A4.html" LinkGroup="SmartHomeSystem">Database Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="DataAccess.DatabaseHandler" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000164.html" LinkGroup="SmartHomeSystem">DatabaseHandler Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Appointment.Date" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000051.html" LinkGroup="SmartHomeSystem">Date Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Person.DateOfBirth" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000010E.html" LinkGroup="SmartHomeSystem">DateOfBirth Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.lazyLoad.client.Details.DefaultDetails" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000000D9.html" LinkGroup="SmartHomeSystem">DefaultDetails Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Configuration.Description" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000007D.html" LinkGroup="SmartHomeSystem">Description Property {ClassLibrary.classes.Configuration}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.GeoData.Description" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000000B2.html" LinkGroup="SmartHomeSystem">Description Property {ClassLibrary.classes.GeoData}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Offer.Description" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000000ED.html" LinkGroup="SmartHomeSystem">Description Property {ClassLibrary.classes.Offer}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Option.Description" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000000FD.html" LinkGroup="SmartHomeSystem">Description Property {ClassLibrary.classes.Option}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Product.Description" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000120.html" LinkGroup="SmartHomeSystem">Description Property {ClassLibrary.classes.Product}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SmartHomeSystem.IDetachContent.DetachContent" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000020.html" LinkGroup="SmartHomeSystem">DetachContent Method {SmartHomeSystem.IDetachContent}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SmartHomeSystem.fragments.ClientsFrags.Account.DetachContent" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000009.html" LinkGroup="SmartHomeSystem">DetachContent Method {SmartHomeSystem.fragments.ClientsFrags.Account}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SmartHomeSystem.fragments.ClientsFrags.ClientOptionsFrags.ClientOptionsOptionxaml.DetachContent" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000000F.html" LinkGroup="SmartHomeSystem">DetachContent Method {SmartHomeSystem.fragments.ClientsFrags.ClientOptionsFrags.ClientOptionsOptionxaml}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SmartHomeSystem.fragments.ClientsFrags.ClientOptionsFrags.ClientOptionsProduct.DetachContent" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000012.html" LinkGroup="SmartHomeSystem">DetachContent Method {SmartHomeSystem.fragments.ClientsFrags.ClientOptionsFrags.ClientOptionsProduct}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SmartHomeSystem.fragments.ClientsFrags.Configurations.DetachContent" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000015.html" LinkGroup="SmartHomeSystem">DetachContent Method {SmartHomeSystem.fragments.ClientsFrags.Configurations}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SmartHomeSystem.fragments.ClientsFrags.Details.DetachContent" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000018.html" LinkGroup="SmartHomeSystem">DetachContent Method {SmartHomeSystem.fragments.ClientsFrags.Details}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SmartHomeSystem.fragments.ClientsFrags.Scheduling.DetachContent" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000001B.html" LinkGroup="SmartHomeSystem">DetachContent Method {SmartHomeSystem.fragments.ClientsFrags.Scheduling}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SmartHomeSystem.fragments.ClientsFrags.Systems.DetachContent" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000001E.html" LinkGroup="SmartHomeSystem">DetachContent Method {SmartHomeSystem.fragments.ClientsFrags.Systems}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SmartHomeSystem.fragments.Clients.DetachContent" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000005.html" LinkGroup="SmartHomeSystem">DetachContent Method {SmartHomeSystem.fragments.Clients}</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.lazyLoad.client.Details.Details" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000000D6_overloads--.html" LinkGroup="SmartHomeSystem">Details Constructor</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.lazyLoad.client.Details.Details" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000000D5_overloads--.html" LinkGroup="SmartHomeSystem">Details Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.lazyLoad.client.Details" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000000D4.html" LinkGroup="SmartHomeSystem">Details Class {ClassLibrary.classes.lazyLoad.client}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SmartHomeSystem.fragments.ClientsFrags.Details" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000016.html" LinkGroup="SmartHomeSystem">Details Class {SmartHomeSystem.fragments.ClientsFrags}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SmartHomeSystem.fragments.ClientsFrags.Details.Details" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000017.html" LinkGroup="SmartHomeSystem">Details Constructor {SmartHomeSystem.fragments.ClientsFrags.Details}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Offer.Discount" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000000F0.html" LinkGroup="SmartHomeSystem">Discount Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="DataAccess.QueryBuilder.ClientInsertQuery.EmailAddress" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000195.html" LinkGroup="SmartHomeSystem">EmailAddress Field</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Contact.EmailAddress" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000008A.html" LinkGroup="SmartHomeSystem">EmailAddress Property</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Employee.Employee" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000000A8_overloads--.html" LinkGroup="SmartHomeSystem">Employee Constructor</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Employee.Employee" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000000A9_overloads--.html" LinkGroup="SmartHomeSystem">Employee Constructor</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Employee.Employee" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000000AA_overloads--.html" LinkGroup="SmartHomeSystem">Employee Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Employee" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000000A4.html" LinkGroup="SmartHomeSystem">Employee Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.interfaces.Employee" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000161.html" LinkGroup="SmartHomeSystem">Employee Structure</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Card.EncryptedString" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000005C.html" LinkGroup="SmartHomeSystem">EncryptedString Property {ClassLibrary.classes.Card}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Login.EncryptedString" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000000DE.html" LinkGroup="SmartHomeSystem">EncryptedString Property {ClassLibrary.classes.Login}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Contract.EndDate" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000093.html" LinkGroup="SmartHomeSystem">EndDate Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Account.Equals" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000032.html" LinkGroup="SmartHomeSystem">Equals Method {ClassLibrary.classes.Account}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Address.Equals" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000045.html" LinkGroup="SmartHomeSystem">Equals Method {ClassLibrary.classes.Address}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Appointment.Equals" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000053.html" LinkGroup="SmartHomeSystem">Equals Method {ClassLibrary.classes.Appointment}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Card.Equals" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000063.html" LinkGroup="SmartHomeSystem">Equals Method {ClassLibrary.classes.Card}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Client.Equals" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000074.html" LinkGroup="SmartHomeSystem">Equals Method {ClassLibrary.classes.Client}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Configuration.Equals" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000080.html" LinkGroup="SmartHomeSystem">Equals Method {ClassLibrary.classes.Configuration}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Contact.Equals" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000008C.html" LinkGroup="SmartHomeSystem">Equals Method {ClassLibrary.classes.Contact}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Employee.Equals" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000000AC.html" LinkGroup="SmartHomeSystem">Equals Method {ClassLibrary.classes.Employee}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.GeoData.Equals" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000000B8.html" LinkGroup="SmartHomeSystem">Equals Method {ClassLibrary.classes.GeoData}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Login.Equals" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000000E4.html" LinkGroup="SmartHomeSystem">Equals Method {ClassLibrary.classes.Login}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Offer.Equals" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000000F2.html" LinkGroup="SmartHomeSystem">Equals Method {ClassLibrary.classes.Offer}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Option.Equals" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000103.html" LinkGroup="SmartHomeSystem">Equals Method {ClassLibrary.classes.Option}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Person.Equals" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000111.html" LinkGroup="SmartHomeSystem">Equals Method {ClassLibrary.classes.Person}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Product.Equals" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000125.html" LinkGroup="SmartHomeSystem">Equals Method {ClassLibrary.classes.Product}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Schedule.Equals" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000130.html" LinkGroup="SmartHomeSystem">Equals Method {ClassLibrary.classes.Schedule}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Status.Equals" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000013C.html" LinkGroup="SmartHomeSystem">Equals Method {ClassLibrary.classes.Status}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.System.Equals" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000147.html" LinkGroup="SmartHomeSystem">Equals Method {ClassLibrary.classes.System}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Technician.Equals" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000151.html" LinkGroup="SmartHomeSystem">Equals Method {ClassLibrary.classes.Technician}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ErrorHandler.ErrorHandle" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000001AB.html" LinkGroup="SmartHomeSystem">ErrorHandle Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ErrorHandler" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000001AA.html" LinkGroup="SmartHomeSystem">ErrorHandler Namespace</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Card.ExpireDate" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000005F.html" LinkGroup="SmartHomeSystem">ExpireDate Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.interfaces.Id<T>.explicit operator ClassLibrary.interfaces.Explicit Conversion (String to Id)" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000015C.html" LinkGroup="SmartHomeSystem">Explicit Conversion (String to Id) Operator</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Appointment.ExtraDetails" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000004D.html" LinkGroup="SmartHomeSystem">ExtraDetails Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="FileAccess" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000001B3.html" LinkGroup="SmartHomeSystem">FileAccess Namespace</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ErrorHandler.FileHandler" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000001AE.html" LinkGroup="SmartHomeSystem">FileHandler Class {ErrorHandler}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="FileAccess.FileHandler" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000001B4.html" LinkGroup="SmartHomeSystem">FileHandler Class {FileAccess}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ErrorHandler.FileHandler.FileHandler" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000001AF.html" LinkGroup="SmartHomeSystem">FileHandler Constructor {ErrorHandler.FileHandler}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="FileAccess.FileHandler.FileHandler" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000001B5.html" LinkGroup="SmartHomeSystem">FileHandler Constructor {FileAccess.FileHandler}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Option.Functions" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000000FF.html" LinkGroup="SmartHomeSystem">Functions Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Account.GUID" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000031.html" LinkGroup="SmartHomeSystem">GUID Property {ClassLibrary.classes.Account}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Address.GUID" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000044.html" LinkGroup="SmartHomeSystem">GUID Property {ClassLibrary.classes.Address}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Appointment.GUID" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000052.html" LinkGroup="SmartHomeSystem">GUID Property {ClassLibrary.classes.Appointment}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Card.GUID" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000062.html" LinkGroup="SmartHomeSystem">GUID Property {ClassLibrary.classes.Card}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Client.GUID" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000072.html" LinkGroup="SmartHomeSystem">GUID Property {ClassLibrary.classes.Client}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Configuration.GUID" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000007E.html" LinkGroup="SmartHomeSystem">GUID Property {ClassLibrary.classes.Configuration}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Contact.GUID" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000086.html" LinkGroup="SmartHomeSystem">GUID Property {ClassLibrary.classes.Contact}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Contract.GUID" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000099.html" LinkGroup="SmartHomeSystem">GUID Property {ClassLibrary.classes.Contract}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Employee.GUID" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000000AB.html" LinkGroup="SmartHomeSystem">GUID Property {ClassLibrary.classes.Employee}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.GeoData.GUID" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000000B3.html" LinkGroup="SmartHomeSystem">GUID Property {ClassLibrary.classes.GeoData}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Login.GUID" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000000E3.html" LinkGroup="SmartHomeSystem">GUID Property {ClassLibrary.classes.Login}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Offer.GUID" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000000F1.html" LinkGroup="SmartHomeSystem">GUID Property {ClassLibrary.classes.Offer}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Option.GUID" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000102.html" LinkGroup="SmartHomeSystem">GUID Property {ClassLibrary.classes.Option}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Person.GUID" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000010A.html" LinkGroup="SmartHomeSystem">GUID Property {ClassLibrary.classes.Person}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Product.GUID" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000124.html" LinkGroup="SmartHomeSystem">GUID Property {ClassLibrary.classes.Product}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Schedule.GUID" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000012E.html" LinkGroup="SmartHomeSystem">GUID Property {ClassLibrary.classes.Schedule}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Status.GUID" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000013B.html" LinkGroup="SmartHomeSystem">GUID Property {ClassLibrary.classes.Status}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.System.GUID" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000143.html" LinkGroup="SmartHomeSystem">GUID Property {ClassLibrary.classes.System}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Technician.GUID" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000150.html" LinkGroup="SmartHomeSystem">GUID Property {ClassLibrary.classes.Technician}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Person.Gender" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000010B.html" LinkGroup="SmartHomeSystem">Gender Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.lazyLoad.client.Details.GenderC" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000000D8.html" LinkGroup="SmartHomeSystem">GenderC Property</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.GeoData.GeoData" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000000B0_overloads--.html" LinkGroup="SmartHomeSystem">GeoData Constructor</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.GeoData.GeoData" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000000B1_overloads--.html" LinkGroup="SmartHomeSystem">GeoData Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.GeoData" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000000AF.html" LinkGroup="SmartHomeSystem">GeoData Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="DataAccess.DatabaseHandler.GetClrType" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000016A.html" LinkGroup="SmartHomeSystem">GetClrType Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Account.GetHashCode" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000033.html" LinkGroup="SmartHomeSystem">GetHashCode Method {ClassLibrary.classes.Account}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Address.GetHashCode" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000046.html" LinkGroup="SmartHomeSystem">GetHashCode Method {ClassLibrary.classes.Address}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Appointment.GetHashCode" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000054.html" LinkGroup="SmartHomeSystem">GetHashCode Method {ClassLibrary.classes.Appointment}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Card.GetHashCode" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000064.html" LinkGroup="SmartHomeSystem">GetHashCode Method {ClassLibrary.classes.Card}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Client.GetHashCode" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000075.html" LinkGroup="SmartHomeSystem">GetHashCode Method {ClassLibrary.classes.Client}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Configuration.GetHashCode" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000081.html" LinkGroup="SmartHomeSystem">GetHashCode Method {ClassLibrary.classes.Configuration}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Contact.GetHashCode" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000008D.html" LinkGroup="SmartHomeSystem">GetHashCode Method {ClassLibrary.classes.Contact}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Employee.GetHashCode" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000000AD.html" LinkGroup="SmartHomeSystem">GetHashCode Method {ClassLibrary.classes.Employee}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.GeoData.GetHashCode" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000000B9.html" LinkGroup="SmartHomeSystem">GetHashCode Method {ClassLibrary.classes.GeoData}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Login.GetHashCode" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000000E5.html" LinkGroup="SmartHomeSystem">GetHashCode Method {ClassLibrary.classes.Login}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Offer.GetHashCode" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000000F3.html" LinkGroup="SmartHomeSystem">GetHashCode Method {ClassLibrary.classes.Offer}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Option.GetHashCode" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000104.html" LinkGroup="SmartHomeSystem">GetHashCode Method {ClassLibrary.classes.Option}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Person.GetHashCode" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000112.html" LinkGroup="SmartHomeSystem">GetHashCode Method {ClassLibrary.classes.Person}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Product.GetHashCode" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000126.html" LinkGroup="SmartHomeSystem">GetHashCode Method {ClassLibrary.classes.Product}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Schedule.GetHashCode" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000131.html" LinkGroup="SmartHomeSystem">GetHashCode Method {ClassLibrary.classes.Schedule}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Status.GetHashCode" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000013D.html" LinkGroup="SmartHomeSystem">GetHashCode Method {ClassLibrary.classes.Status}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.System.GetHashCode" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000148.html" LinkGroup="SmartHomeSystem">GetHashCode Method {ClassLibrary.classes.System}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Technician.GetHashCode" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000152.html" LinkGroup="SmartHomeSystem">GetHashCode Method {ClassLibrary.classes.Technician}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Global" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000000D2.html" LinkGroup="SmartHomeSystem">Global Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.GeoData.HowRemoteLocation" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000000B5.html" LinkGroup="SmartHomeSystem">HowRemoteLocation Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Person.ID" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000010D.html" LinkGroup="SmartHomeSystem">ID Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="DataAccess.IDatabaseHandler" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000017D.html" LinkGroup="SmartHomeSystem">IDatabaseHandler Interface</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SmartHomeSystem.IDetachContent" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000001F.html" LinkGroup="SmartHomeSystem">IDetachContent Interface</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.interfaces.Id<T>.Id" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000015A.html" LinkGroup="SmartHomeSystem">Id<T> Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.interfaces.Id<T>" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000159.html" LinkGroup="SmartHomeSystem">Id<T> Structure</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="DataAccess.QueryBuilder.ClientInsertQuery.Identification" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000190.html" LinkGroup="SmartHomeSystem">Identification Field</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.interfaces.Id<T>.implicit operator System.Implicit Conversion (Id to String)" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000015B.html" LinkGroup="SmartHomeSystem">Implicit Conversion (Id to String) Operator</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Product.InStock" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000011D.html" LinkGroup="SmartHomeSystem">InStock Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.GeoData.InstallAmountIncrease" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000000B4.html" LinkGroup="SmartHomeSystem">InstallAmountIncrease Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Option.InstallByCompanyCost" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000000FA.html" LinkGroup="SmartHomeSystem">InstallByCompanyCost Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Option.InstallationTime" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000000FB.html" LinkGroup="SmartHomeSystem">InstallationTime Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Contract.IsActive" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000097.html" LinkGroup="SmartHomeSystem">IsActive Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="DataAccess.QueryBuilder.ClientInsertQuery.IsLate" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000018A.html" LinkGroup="SmartHomeSystem">IsLate Field</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Account.IsLate" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000002D.html" LinkGroup="SmartHomeSystem">IsLate Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.interfaces.Location" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000015F.html" LinkGroup="SmartHomeSystem">Location Structure</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Login.LoggedInTime" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000000E0.html" LinkGroup="SmartHomeSystem">LoggedInTime Property</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Login.Login" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000000DB_overloads--.html" LinkGroup="SmartHomeSystem">Login Constructor</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Login.Login" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000000DD_overloads--.html" LinkGroup="SmartHomeSystem">Login Constructor</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Login.Login" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000000DC_overloads--.html" LinkGroup="SmartHomeSystem">Login Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Login" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000000DA.html" LinkGroup="SmartHomeSystem">Login Class {ClassLibrary.classes}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SmartHomeSystem.Login" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000021.html" LinkGroup="SmartHomeSystem">Login Class {SmartHomeSystem}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SmartHomeSystem.Login.Login" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000022.html" LinkGroup="SmartHomeSystem">Login Constructor {SmartHomeSystem.Login}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Client.Login" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000073.html" LinkGroup="SmartHomeSystem">Login Property {ClassLibrary.classes.Client}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Employee.Login" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000000A5.html" LinkGroup="SmartHomeSystem">Login Property {ClassLibrary.classes.Employee}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="DataAccess.QueryBuilder.ClientInsertQuery.LoginEncryptedString" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000192.html" LinkGroup="SmartHomeSystem">LoginEncryptedString Field</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="DataAccess.QueryBuilder.ClientInsertQuery.LoginGUID" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000191.html" LinkGroup="SmartHomeSystem">LoginGUID Field</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Contract.MainOptionGuid" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000098.html" LinkGroup="SmartHomeSystem">MainOptionGuid Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SmartHomeSystem.MainScreen" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000023.html" LinkGroup="SmartHomeSystem">MainScreen Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SmartHomeSystem.MainScreen.MainScreen" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000024.html" LinkGroup="SmartHomeSystem">MainScreen Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Product.Manufacturer" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000011B.html" LinkGroup="SmartHomeSystem">Manufacturer Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Status.Messages" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000139.html" LinkGroup="SmartHomeSystem">Messages Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Product.Model" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000011A.html" LinkGroup="SmartHomeSystem">Model Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Offer.MyProperty" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000000EE.html" LinkGroup="SmartHomeSystem">MyProperty Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="DataAccess.QueryBuilder.ClientInsertQuery.Name" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000018E.html" LinkGroup="SmartHomeSystem">Name Field</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Option.Name" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000000FC.html" LinkGroup="SmartHomeSystem">Name Property {ClassLibrary.classes.Option}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Person.Name" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000110.html" LinkGroup="SmartHomeSystem">Name Property {ClassLibrary.classes.Person}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Product.Name" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000011F.html" LinkGroup="SmartHomeSystem">Name Property {ClassLibrary.classes.Product}</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Offer.Offer" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000000EB_overloads--.html" LinkGroup="SmartHomeSystem">Offer Constructor</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Offer.Offer" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000000EC_overloads--.html" LinkGroup="SmartHomeSystem">Offer Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Offer" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000000EA.html" LinkGroup="SmartHomeSystem">Offer Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="DataAccess.DataHandler.OnStateChange" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000173.html" LinkGroup="SmartHomeSystem">OnStateChange Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Appointment.Operation" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000050.html" LinkGroup="SmartHomeSystem">Operation Property</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Option.Option" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000000F6_overloads--.html" LinkGroup="SmartHomeSystem">Option Constructor</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Option.Option" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000000F7_overloads--.html" LinkGroup="SmartHomeSystem">Option Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Option" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000000F5.html" LinkGroup="SmartHomeSystem">Option Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Configuration.Options" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000007F.html" LinkGroup="SmartHomeSystem">Options Property {ClassLibrary.classes.Configuration}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.System.Options" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000145.html" LinkGroup="SmartHomeSystem">Options Property {ClassLibrary.classes.System}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Login.Password" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000000E2.html" LinkGroup="SmartHomeSystem">Password Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Card.PaymentType" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000061.html" LinkGroup="SmartHomeSystem">PaymentType Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Employee.PermissionLevel" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000000A7.html" LinkGroup="SmartHomeSystem">PermissionLevel Property</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Person.Person" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000108_overloads--.html" LinkGroup="SmartHomeSystem">Person Constructor</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Person.Person" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000109_overloads--.html" LinkGroup="SmartHomeSystem">Person Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Person" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000107.html" LinkGroup="SmartHomeSystem">Person Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.interfaces.Person" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000015D.html" LinkGroup="SmartHomeSystem">Person Structure</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Person.PersonList" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000010C.html" LinkGroup="SmartHomeSystem">PersonList Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="DataAccess.QueryBuilder.ClientInsertQuery.PostalCode" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000019C.html" LinkGroup="SmartHomeSystem">PostalCode Field</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Address.PostalCode" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000003E.html" LinkGroup="SmartHomeSystem">PostalCode Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Option.Price" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000100.html" LinkGroup="SmartHomeSystem">Price Property {ClassLibrary.classes.Option}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Product.Price" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000121.html" LinkGroup="SmartHomeSystem">Price Property {ClassLibrary.classes.Product}</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Product.Product" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000115_overloads--.html" LinkGroup="SmartHomeSystem">Product Constructor</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Product.Product" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000116_overloads--.html" LinkGroup="SmartHomeSystem">Product Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Product" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000114.html" LinkGroup="SmartHomeSystem">Product Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.interfaces.Product" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000015E.html" LinkGroup="SmartHomeSystem">Product Structure</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Product.ProductCode" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000011E.html" LinkGroup="SmartHomeSystem">ProductCode Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Option.Products" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000000FE.html" LinkGroup="SmartHomeSystem">Products Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="DataAccess.DataHandlerHelper.ProviderName" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000017A.html" LinkGroup="SmartHomeSystem">ProviderName Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="DataAccess.QueryBuilder" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000183.html" LinkGroup="SmartHomeSystem">QueryBuilder Structure</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="DataAccess.QueryType" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000019F.html" LinkGroup="SmartHomeSystem">QueryType Enumeration</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Option.RecommendedFor" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000101.html" LinkGroup="SmartHomeSystem">RecommendedFor Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="DataAccess.QueryBuilder.ClientInsertQuery.RegisteredOn" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000018C.html" LinkGroup="SmartHomeSystem">RegisteredOn Field</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Account.RegisteredOn" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000002B.html" LinkGroup="SmartHomeSystem">RegisteredOn Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Product.RemoveProduct" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000129.html" LinkGroup="SmartHomeSystem">RemoveProduct Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SOLUTION-WIDE PROPERTIES Reference" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000001BA.html" LinkGroup="SmartHomeSystem">SOLUTION-WIDE PROPERTIES Reference</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Schedule.Schedule" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000012C_overloads--.html" LinkGroup="SmartHomeSystem">Schedule Constructor</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Schedule.Schedule" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000012D_overloads--.html" LinkGroup="SmartHomeSystem">Schedule Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Schedule" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000012B.html" LinkGroup="SmartHomeSystem">Schedule Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Technician.Schedule" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000014E.html" LinkGroup="SmartHomeSystem">Schedule Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Schedule.ScheduleTimeActivity" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000012F.html" LinkGroup="SmartHomeSystem">ScheduleTimeActivity Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SmartHomeSystem.fragments.ClientsFrags.Scheduling" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000019.html" LinkGroup="SmartHomeSystem">Scheduling Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SmartHomeSystem.fragments.ClientsFrags.Scheduling.Scheduling" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000001A.html" LinkGroup="SmartHomeSystem">Scheduling Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Product.SerialNumber" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000119.html" LinkGroup="SmartHomeSystem">SerialNumber Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Contract.ServiceLevel" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000095.html" LinkGroup="SmartHomeSystem">ServiceLevel Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Login.SessionActive" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000000DF.html" LinkGroup="SmartHomeSystem">SessionActive Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="DataAccess.DataHandler.DataConverter.SetPropertyValue" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000016F.html" LinkGroup="SmartHomeSystem">SetPropertyValue Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SmartHomeSystem" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000000.html" LinkGroup="SmartHomeSystem">SmartHomeSystem Namespace</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SmartHomeSystem.fragments" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000002.html" LinkGroup="SmartHomeSystem">SmartHomeSystem.fragments Namespace</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SmartHomeSystem.fragments.ClientsFrags" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000006.html" LinkGroup="SmartHomeSystem">SmartHomeSystem.fragments.ClientsFrags Namespace</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SmartHomeSystem.fragments.ClientsFrags.ClientOptionsFrags" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000000C.html" LinkGroup="SmartHomeSystem">SmartHomeSystem.fragments.ClientsFrags.ClientOptionsFrags Namespace</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Contract.StartDate" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000094.html" LinkGroup="SmartHomeSystem">StartDate Property {ClassLibrary.classes.Contract}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Offer.StartDate" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000000EF.html" LinkGroup="SmartHomeSystem">StartDate Property {ClassLibrary.classes.Offer}</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Status.Status" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000134_overloads--.html" LinkGroup="SmartHomeSystem">Status Constructor</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Status.Status" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000135_overloads--.html" LinkGroup="SmartHomeSystem">Status Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Status" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000133.html" LinkGroup="SmartHomeSystem">Status Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.System.Status" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000146.html" LinkGroup="SmartHomeSystem">Status Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="DataAccess.QueryBuilder.ClientInsertQuery.Suburb" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000019B.html" LinkGroup="SmartHomeSystem">Suburb Field</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Address.Suburb" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000041.html" LinkGroup="SmartHomeSystem">Suburb Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="DataAccess.QueryBuilder.ClientInsertQuery.Surname" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000018F.html" LinkGroup="SmartHomeSystem">Surname Field</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Person.Surname" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000010F.html" LinkGroup="SmartHomeSystem">Surname Property</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.System.System" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000141_overloads--.html" LinkGroup="SmartHomeSystem">System Constructor</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.System.System" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000142_overloads--.html" LinkGroup="SmartHomeSystem">System Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.System" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000140.html" LinkGroup="SmartHomeSystem">System Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SmartHomeSystem.fragments.ClientsFrags.Systems" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000001C.html" LinkGroup="SmartHomeSystem">Systems Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SmartHomeSystem.fragments.ClientsFrags.Systems.Systems" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000001D.html" LinkGroup="SmartHomeSystem">Systems Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Address.TableDataInfo" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000003D.html" LinkGroup="SmartHomeSystem">TableDataInfo Property {ClassLibrary.classes.Address}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Option.TableDataInfo" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000000F9.html" LinkGroup="SmartHomeSystem">TableDataInfo Property {ClassLibrary.classes.Option}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Product.TableDataInfo" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000118.html" LinkGroup="SmartHomeSystem">TableDataInfo Property {ClassLibrary.classes.Product}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Address.TableName" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000003C.html" LinkGroup="SmartHomeSystem">TableName Property {ClassLibrary.classes.Address}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Option.TableName" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000000F8.html" LinkGroup="SmartHomeSystem">TableName Property {ClassLibrary.classes.Option}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Product.TableName" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000117.html" LinkGroup="SmartHomeSystem">TableName Property {ClassLibrary.classes.Product}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="DataAccess.Database.Tables" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000001A5.html" LinkGroup="SmartHomeSystem">Tables Enumeration</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Technician.Technician" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000014B_overloads--.html" LinkGroup="SmartHomeSystem">Technician Constructor</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Technician.Technician" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000014C_overloads--.html" LinkGroup="SmartHomeSystem">Technician Constructor</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Technician.Technician" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000014D_overloads--.html" LinkGroup="SmartHomeSystem">Technician Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Technician" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000014A.html" LinkGroup="SmartHomeSystem">Technician Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Technician.TechnicianLevel" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000014F.html" LinkGroup="SmartHomeSystem">TechnicianLevel Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Terrian" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000000BB.html" LinkGroup="SmartHomeSystem">Terrian Enumeration</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.GeoData.Terrian" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000000B6.html" LinkGroup="SmartHomeSystem">Terrian Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Account.ToString" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000034.html" LinkGroup="SmartHomeSystem">ToString Method {ClassLibrary.classes.Account}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Address.ToString" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000047.html" LinkGroup="SmartHomeSystem">ToString Method {ClassLibrary.classes.Address}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Appointment.ToString" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000055.html" LinkGroup="SmartHomeSystem">ToString Method {ClassLibrary.classes.Appointment}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Card.ToString" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000065.html" LinkGroup="SmartHomeSystem">ToString Method {ClassLibrary.classes.Card}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Client.ToString" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000076.html" LinkGroup="SmartHomeSystem">ToString Method {ClassLibrary.classes.Client}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Configuration.ToString" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000082.html" LinkGroup="SmartHomeSystem">ToString Method {ClassLibrary.classes.Configuration}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Contact.ToString" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000008E.html" LinkGroup="SmartHomeSystem">ToString Method {ClassLibrary.classes.Contact}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Employee.ToString" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000000AE.html" LinkGroup="SmartHomeSystem">ToString Method {ClassLibrary.classes.Employee}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.GeoData.ToString" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000000BA.html" LinkGroup="SmartHomeSystem">ToString Method {ClassLibrary.classes.GeoData}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Login.ToString" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000000E6.html" LinkGroup="SmartHomeSystem">ToString Method {ClassLibrary.classes.Login}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Offer.ToString" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000000F4.html" LinkGroup="SmartHomeSystem">ToString Method {ClassLibrary.classes.Offer}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Option.ToString" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000105.html" LinkGroup="SmartHomeSystem">ToString Method {ClassLibrary.classes.Option}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Person.ToString" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000113.html" LinkGroup="SmartHomeSystem">ToString Method {ClassLibrary.classes.Person}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Product.ToString" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000127.html" LinkGroup="SmartHomeSystem">ToString Method {ClassLibrary.classes.Product}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Schedule.ToString" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000132.html" LinkGroup="SmartHomeSystem">ToString Method {ClassLibrary.classes.Schedule}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Status.ToString" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000013E.html" LinkGroup="SmartHomeSystem">ToString Method {ClassLibrary.classes.Status}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.System.ToString" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000149.html" LinkGroup="SmartHomeSystem">ToString Method {ClassLibrary.classes.System}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Technician.ToString" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000153.html" LinkGroup="SmartHomeSystem">ToString Method {ClassLibrary.classes.Technician}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Product.Type" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000122.html" LinkGroup="SmartHomeSystem">Type Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Product.UpdateProduct" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000012A.html" LinkGroup="SmartHomeSystem">UpdateProduct Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Contract.UpgradeOptions" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000092.html" LinkGroup="SmartHomeSystem">UpgradeOptions Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Login.Username" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000000E1.html" LinkGroup="SmartHomeSystem">Username Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Status.Warning" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000138.html" LinkGroup="SmartHomeSystem">Warning Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Product.WarrentyPeriod" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000123.html" LinkGroup="SmartHomeSystem">WarrentyPeriod Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Weather" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000000C7.html" LinkGroup="SmartHomeSystem">Weather Enumeration</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ErrorHandler.FileHandler.appendDataToTextFile" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000001B0.html" LinkGroup="SmartHomeSystem">appendDataToTextFile Method {ErrorHandler.FileHandler}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="FileAccess.FileHandler.appendDataToTextFile" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000001B6.html" LinkGroup="SmartHomeSystem">appendDataToTextFile Method {FileAccess.FileHandler}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Option.calculateOverallCost" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000106.html" LinkGroup="SmartHomeSystem">calculateOverallCost Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="DataAccess.Database.database" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000001A9.html" LinkGroup="SmartHomeSystem">database Field</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.databaseMap" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000009A.html" LinkGroup="SmartHomeSystem">databaseMap Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.databaseMap.databaseMap" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000009B.html" LinkGroup="SmartHomeSystem">databaseMap Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.functions.functions.decodeID" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000157.html" LinkGroup="SmartHomeSystem">decodeID Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Card.decryptString" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000067.html" LinkGroup="SmartHomeSystem">decryptString Method {ClassLibrary.classes.Card}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Login.decryptString" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000000E9.html" LinkGroup="SmartHomeSystem">decryptString Method {ClassLibrary.classes.Login}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Account.deleteBillAfterTwoYears" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000037.html" LinkGroup="SmartHomeSystem">deleteBillAfterTwoYears Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Card.encryptObject" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000066.html" LinkGroup="SmartHomeSystem">encryptObject Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Login.encryptString" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000000E8.html" LinkGroup="SmartHomeSystem">encryptString Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.functions.functions" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000155.html" LinkGroup="SmartHomeSystem">functions Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Account.generateBill" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000035.html" LinkGroup="SmartHomeSystem">generateBill Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Client.getClients" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000077.html" LinkGroup="SmartHomeSystem">getClients Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="DataAccess.DatabaseHandler.getFromStringQuery" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000168.html" LinkGroup="SmartHomeSystem">getFromStringQuery Method {DataAccess.DatabaseHandler}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="DataAccess.IDatabaseHandler.getFromStringQuery" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000180.html" LinkGroup="SmartHomeSystem">getFromStringQuery Method {DataAccess.IDatabaseHandler}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="DataAccess.DatabaseHandler.getInstance" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000165.html" LinkGroup="SmartHomeSystem">getInstance Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="DataAccess.DataHandler.getMultipleObject<T>" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000171.html" LinkGroup="SmartHomeSystem">getMultipleObject<T> Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ErrorHandler.FileHandler.getRawDataFromTextFile" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000001B1.html" LinkGroup="SmartHomeSystem">getRawDataFromTextFile Method {ErrorHandler.FileHandler}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="FileAccess.FileHandler.getRawDataFromTextFile" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000001B7.html" LinkGroup="SmartHomeSystem">getRawDataFromTextFile Method {FileAccess.FileHandler}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="DataAccess.DataHandler.getSchema" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000016D.html" LinkGroup="SmartHomeSystem">getSchema Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="DataAccess.DataHandler.getSingleObject<T>" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000170.html" LinkGroup="SmartHomeSystem">getSingleObject<T> Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ErrorHandler.ErrorHandle.handle" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000001AC.html" LinkGroup="SmartHomeSystem">handle Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Client.insertClient" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000078.html" LinkGroup="SmartHomeSystem">insertClient Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="DataAccess.DatabaseHandler.insertQueryFromString" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000169.html" LinkGroup="SmartHomeSystem">insertQueryFromString Method {DataAccess.DatabaseHandler}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="DataAccess.IDatabaseHandler.insertQueryFromString" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000181.html" LinkGroup="SmartHomeSystem">insertQueryFromString Method {DataAccess.IDatabaseHandler}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.lazyLoad.client.Details.loadedDetails" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000000D7.html" LinkGroup="SmartHomeSystem">loadedDetails Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ErrorHandler.ErrorHandle.log" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000001AD.html" LinkGroup="SmartHomeSystem">log Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="DataAccess.DatabaseHandler.nonQuery" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000166.html" LinkGroup="SmartHomeSystem">nonQuery Method {DataAccess.DatabaseHandler}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="DataAccess.IDatabaseHandler.nonQuery" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000017E.html" LinkGroup="SmartHomeSystem">nonQuery Method {DataAccess.IDatabaseHandler}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Status.notifyParties" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000013F.html" LinkGroup="SmartHomeSystem">notifyParties Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="DataAccess.DataHandler.onInfoMessage" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000172.html" LinkGroup="SmartHomeSystem">onInfoMessage Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ErrorHandler.FileHandler.readDataToTextFile" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000001B2.html" LinkGroup="SmartHomeSystem">readDataToTextFile Method {ErrorHandler.FileHandler}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="FileAccess.FileHandler.readDataToTextFile" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000001B8.html" LinkGroup="SmartHomeSystem">readDataToTextFile Method {FileAccess.FileHandler}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="DataAccess.DatabaseHandler.returnQuery" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000167.html" LinkGroup="SmartHomeSystem">returnQuery Method {DataAccess.DatabaseHandler}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="DataAccess.IDatabaseHandler.returnQuery" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_000000000000017F.html" LinkGroup="SmartHomeSystem">returnQuery Method {DataAccess.IDatabaseHandler}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Account.sendBill" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000036.html" LinkGroup="SmartHomeSystem">sendBill Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Account.sendLateNotification" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000038.html" LinkGroup="SmartHomeSystem">sendLateNotification Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Login.signOutOperator" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_00000000000000E7.html" LinkGroup="SmartHomeSystem">signOutOperator Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="DataAccess.QueryBuilder.ClientInsertQuery.sp" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000185.html" LinkGroup="SmartHomeSystem">sp Field</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Appointment.updateConfirmation" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000056.html" LinkGroup="SmartHomeSystem">updateConfirmation Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.functions.functions.var_dump" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SmartHomeSystem.chm::/topic_0000000000000156.html" LinkGroup="SmartHomeSystem">var_dump Method</LItem>
+      </Links>
+   </Context>
+   
+
+</DynamicHelp>
+

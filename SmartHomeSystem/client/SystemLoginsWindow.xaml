@@ -1,0 +1,22 @@
+﻿<Window x:Class="SmartHomeSystem.client.SystemLoginsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SmartHomeSystem.client"
+        mc:Ignorable="d"
+        Title="All Logins" Height="500" Width="1000" Closing="Window_Closing">
+    <Grid>
+        <ListView x:Name="lvSystemLogins" HorizontalAlignment="Left" Height="469" VerticalAlignment="Top" Width="992">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Login GUID Used" Width="300" DisplayMemberBinding="{Binding LoginGuidUsed}" />
+                    <GridViewColumn Header="Login Date" Width="250" DisplayMemberBinding="{Binding LoginDate}" />
+                    <GridViewColumn Header="Type" Width="300" DisplayMemberBinding="{Binding Type}" />
+                    <GridViewColumn Header="Failed Attempts" Width="120" DisplayMemberBinding="{Binding FailedAttempts}" />
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+    </Grid>
+</Window>

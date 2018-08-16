@@ -1,0 +1,22 @@
+﻿<Window x:Class="SmartHomeSystem.Login"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SmartHomeSystem"
+        mc:Ignorable="d"
+        Title="Login" Height="430" Width="547" Closed="Window_Closed">
+    <Grid>
+        <Image Source="assets/logo.png" x:Name="image" Height="134" Margin="10,10,10,0" VerticalAlignment="Top"/>
+        <Label x:Name="usernameLabel" Content="Username:" HorizontalAlignment="Left" Margin="145,149,0,0" VerticalAlignment="Top" FontSize="18" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans" Foreground="#FF595959"/>
+        <Label Visibility="Hidden" x:Name="lblDomain" Content="howldev.local\" HorizontalAlignment="Left" Margin="24,182,0,0" VerticalAlignment="Top" FontSize="18" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans" Foreground="#FF595959"/>
+        <Label x:Name="passwordLabel" Content="Password:" HorizontalAlignment="Left" Margin="145,219,0,0" VerticalAlignment="Top" FontSize="18" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans" Foreground="#FF595959"/>
+        <TextBox x:Name="txtUsername" Padding="5" Margin="145,182,0,0" TextWrapping="Wrap" FontSize="16" Text="Administrator" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans" Foreground="#FF595959" Height="32" VerticalAlignment="Top" HorizontalAlignment="Left" Width="227" TextChanged="txtUsername_TextChanged"/>
+        <PasswordBox x:Name="txtPassword" HorizontalAlignment="Left" Padding="5" Height="32" Margin="145,252,0,0" Password="Mvn0825527379" VerticalAlignment="Top" Width="227" FontSize="16" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans" Foreground="#FF595959"/>
+        <Button x:Name="btnLogin" Content="Sign in" Margin="145,343,167,0" VerticalAlignment="Top" Height="37" FontSize="24" Click="btnLogin_Click" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans"/>
+        <Viewbox Height="28" Margin="165,298,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" >
+            <CheckBox x:Name="chkActiveDirectory" Content="Active Directory" HorizontalAlignment="Left" VerticalAlignment="Top" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans" Checked="chkActiveDirectory_Checked" Unchecked="chkActiveDirectory_Unchecked"/>
+        </Viewbox>
+
+    </Grid>
+</Window>

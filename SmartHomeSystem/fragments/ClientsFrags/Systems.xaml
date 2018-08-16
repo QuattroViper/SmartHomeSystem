@@ -1,0 +1,96 @@
+﻿<Window x:Class="SmartHomeSystem.fragments.ClientsFrags.Systems"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SmartHomeSystem.fragments.ClientsFrags"
+        mc:Ignorable="d"
+        xmlns:tz="http://schemas.abtsoftware.co.uk/transitionz"
+        Title="Systems" Height="560" Width="970">
+    <Window.Resources>
+        <BooleanToVisibilityConverter x:Key="b2vc"></BooleanToVisibilityConverter>
+    </Window.Resources>
+    <Grid x:Name="SystemsFragment">
+        <Grid Visibility="Collapsed" x:Name="addOptionGrid" HorizontalAlignment="Left" Background="#e6e7ed" Width="573" Panel.ZIndex="1" 
+              tz:Transitionz.Opacity="{tz:OpacityParams From=0, To=1, Duration=300, TransitionOn=Visibility}"
+              tz:Transitionz.Translate="{tz:TranslateParams From='0,20', To='0,0', Duration=300, TransitionOn=Visibility}"
+              tz:Transitionz.Visibility="{Binding AddOptionEnabled, Converter={StaticResource b2vc}}">
+            <Grid Background="white" Height="471" VerticalAlignment="Top" >
+                <ListView x:Name="lvOptionsToChooseFrom" BorderBrush="Transparent" Margin="0,0,0,0" MouseUp="lvOptionsToChooseFrom_MouseUp">
+                    <ListView.View>
+                        <GridView>
+                            <GridViewColumn Header="Name" Width="360" DisplayMemberBinding="{Binding Name}" />
+                            <GridViewColumn Header="Price" Width="170" DisplayMemberBinding="{Binding Price}" />
+                        </GridView>
+                    </ListView.View>
+                </ListView>
+            </Grid>
+            <Grid Margin="0,476,0,0" Background="white" >
+                <Button x:Name="btnAddOptionfromList" Content="Add Option" HorizontalAlignment="Left" Margin="123,10,0,0" VerticalAlignment="Top" Height="35" Width="134" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans" FontSize="16" Click="btnAddOptionfromList_Click"/>
+                <Button x:Name="btnCancelOptionfromList" Content="Cancel" HorizontalAlignment="Left" Margin="316,8,0,0" VerticalAlignment="Top" Height="35" Width="134" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans" FontSize="16" Click="btnCancelOptionfromList_Click"/>
+            </Grid>
+
+        </Grid>
+        <Grid HorizontalAlignment="Left" Background="#e6e7ed" Width="257">
+            <Grid Background="White" Margin="0,0,5,0">
+                <ListView x:Name="lvClientSystems" Margin="0,10,0,0" BorderBrush="Transparent" PreviewMouseLeftButtonUp="lvClientSystems_Click">
+                    <ListView.View>
+                        <GridView>
+                            <GridViewColumn Header="Name" Width="150" DisplayMemberBinding="{Binding Name}" />
+                            <GridViewColumn Header="Active" Width="90" DisplayMemberBinding="{Binding Active}" />
+                        </GridView>
+                    </ListView.View>
+                </ListView>
+            </Grid>
+        </Grid>
+        <Grid HorizontalAlignment="Left"  Background="#e6e7ed" Margin="262,0,0,0" Width="316">
+            <Grid Background="White" Margin="0,0,5,0">
+                <Label x:Name="label" Content="Contract Detials" Margin="66,10,66,0" VerticalAlignment="Top" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans" FontSize="24" FontWeight="Bold"/>
+                <Label x:Name="label1" Content="Contract Identifier:" HorizontalAlignment="Left" Margin="10,56,0,0" VerticalAlignment="Top" FontSize="16" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans"/>
+                <TextBox IsReadOnly="True" x:Name="txtContractIdentifier" Padding="5" Height="32" Margin="10,87,42,0"  TextWrapping="Wrap" Text="" VerticalAlignment="Top" FontSize="16" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans" Foreground="#FF595959"/>
+                <Label x:Name="label2" Content="Is contract active?" HorizontalAlignment="Left" Margin="10,124,0,0" VerticalAlignment="Top" FontSize="16" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans"/>
+                <TextBox IsReadOnly="True" x:Name="txtIsActive" Padding="5" Height="32" Margin="10,155,42,0"  TextWrapping="Wrap" Text="" VerticalAlignment="Top" FontSize="16" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans" Foreground="#FF595959"/>
+                <Label x:Name="label3" Content="Service level:" HorizontalAlignment="Left" Margin="10,191,0,0" VerticalAlignment="Top" FontSize="16" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans"/>
+                <TextBox IsReadOnly="True" x:Name="txtServiceLevel" Padding="5" Height="32" Margin="10,222,42,0"  TextWrapping="Wrap" Text="" VerticalAlignment="Top" FontSize="16" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans" Foreground="#FF595959"/>
+                <Label x:Name="label4" Content="Start date:" HorizontalAlignment="Left" Margin="10,259,0,0" VerticalAlignment="Top" FontSize="16" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans"/>
+                <DatePicker Visibility="Hidden" x:Name="dtStartDate" HorizontalAlignment="Left" Margin="10,290,0,0" VerticalAlignment="Top" Padding="5" Height="32" FontSize="16" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans" Width="259" SelectedDateFormat="Long" Foreground="#FF595959" BorderBrush="#FFABADB3"/>
+                <TextBox IsReadOnly="True" x:Name="txtStartDate" Padding="5" Height="32" Margin="10,290,42,0"  TextWrapping="Wrap" Text="" VerticalAlignment="Top" FontSize="16" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans" Foreground="#FF595959"/>
+                <Label x:Name="label5" Content="Start date:" HorizontalAlignment="Left" Margin="10,327,0,0" VerticalAlignment="Top" FontSize="16" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans"/>
+                <DatePicker Visibility="Hidden" x:Name="dtEndDate" HorizontalAlignment="Left" Margin="10,358,0,0" VerticalAlignment="Top" Padding="5" Height="32" FontSize="16" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans" Width="259" SelectedDateFormat="Long" Foreground="#FF595959" BorderBrush="#FFABADB3"/>
+                <TextBox IsReadOnly="True" x:Name="txtEndDate" Padding="5" Height="32" Margin="10,358,42,0"  TextWrapping="Wrap" Text="" VerticalAlignment="Top" FontSize="16" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans" Foreground="#FF595959"/>
+                <Label x:Name="label6" Content="Upgrade options:" HorizontalAlignment="Left" Margin="10,395,0,0" VerticalAlignment="Top" FontSize="16" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans"/>
+                <TextBox IsReadOnly="True" x:Name="txtUpgradeOptions" Padding="5" Height="32" Margin="10,426,42,0"  TextWrapping="Wrap" Text="" VerticalAlignment="Top" FontSize="16" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans" Foreground="#FF595959"/>
+            </Grid>
+        </Grid>
+        <Grid Height="139" Margin="578,0,0,0" Background="#e6e7ed" VerticalAlignment="Top">
+            <Grid Margin="0,0,0,5" Background="White">
+                <Label x:Name="labelss" Content="Critical:" HorizontalAlignment="Left" Margin="10,55,0,0" VerticalAlignment="Top" FontSize="16" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans"/>
+                <TextBox x:Name="txtCritical" Padding="5" Height="32" Margin="10,86,0,0"  TextWrapping="Wrap" Text="" VerticalAlignment="Top" FontSize="16" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans" Foreground="#FF595959" HorizontalAlignment="Left" Width="162"/>
+                <Label x:Name="label_Copy" Content="Status" Margin="152,10,0,0" VerticalAlignment="Top" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans" FontSize="24" FontWeight="Bold" HorizontalAlignment="Left" Width="80"/>
+                <Label x:Name="labelsss" Content="Warning:" HorizontalAlignment="Left" Margin="212,55,0,0" VerticalAlignment="Top" FontSize="16" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans"/>
+                <TextBox x:Name="txtWarning" Padding="5" Height="32" Margin="212,86,0,0"  TextWrapping="Wrap" Text="" VerticalAlignment="Top" FontSize="16" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans" Foreground="#FF595959" HorizontalAlignment="Left" Width="162"/>
+            </Grid>
+        </Grid>
+        <Grid Margin="578,139,0,92">
+            <ListView x:Name="lvClientOptions" BorderBrush="Transparent" PreviewMouseLeftButtonUp="listView_Click">
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Header="Name" Width="230" DisplayMemberBinding="{Binding Name}" />
+                        <GridViewColumn Header="Price" Width="140" DisplayMemberBinding="{Binding Price}" />
+                    </GridView>
+                </ListView.View>
+            </ListView>
+
+
+        </Grid>
+        <Grid Background="#e6e7ed" Margin="578,470,0,0">
+            <Grid Background="white" Margin="0,5,0,0">
+                <Button IsEnabled="False" x:Name="btnRemoveOption" Content="Remove Option" HorizontalAlignment="Left" Margin="213,10,0,0" VerticalAlignment="Top" Height="35" Width="134" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans" FontSize="16" Click="btnRemoveOption_Click"/>
+                <Button x:Name="btnAddOption" Content="Add Option" HorizontalAlignment="Left" Margin="31,10,0,0" VerticalAlignment="Top" Height="35" Width="134" FontFamily="/SmartHomeSystem;component/assets/fonts/#PT Sans" FontSize="16" Click="btnAddOption_Click"/>
+
+            </Grid>
+
+        </Grid>
+
+    </Grid>
+</Window>

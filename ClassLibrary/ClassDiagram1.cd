@@ -1,0 +1,316 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ClassLibrary.classes.Account">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kABAIIAAQAAAAAAFgAAACQAEAAgCAoAAAAIIAIAACCA=</HashCode>
+      <FileName>classes\Account.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibrary.classes.Address">
+    <Position X="4.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAgCAAAAAgMoAAECCAEBAIAAIACAAAAAAAAAAA=</HashCode>
+      <FileName>classes\Address.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibrary.classes.Appointment">
+    <Position X="2.5" Y="5.5" Width="1.5" />
+    <AssociationLine Name="client" Type="ClassLibrary.classes.Client" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="4" Y="5.861" />
+        <Point X="6.312" Y="5.861" />
+        <Point X="6.312" Y="6.25" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AABAIAAAAAAAAAAEgAAAABAEAAAQAIABAEEgBQBBIAQ=</HashCode>
+      <FileName>classes\Appointment.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="client" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="ClassLibrary.classes.Client">
+    <Position X="6.25" Y="6.25" Width="1.5" />
+    <InheritanceLine Type="ClassLibrary.classes.Person" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="2" Y="5.25" />
+        <Point X="3.05" Y="5.25" />
+        <Point X="3.05" Y="5.457" />
+        <Point X="6.625" Y="5.457" />
+        <Point X="6.625" Y="6.25" />
+      </Path>
+    </InheritanceLine>
+    <AssociationLine Name="systems" Type="ClassLibrary.classes.System" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="6.812" Y="9.347" />
+        <Point X="6.812" Y="9.51" />
+        <Point X="7.25" Y="9.51" />
+        <Point X="7.25" Y="9.75" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="account" Type="ClassLibrary.classes.Account" FixedFromPoint="true">
+      <Path>
+        <Point X="7.75" Y="7.183" />
+        <Point X="9.5" Y="7.183" />
+        <Point X="9.5" Y="6.545" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true" ManuallySized="true">
+        <Position X="0.029" Y="0.11" Height="0.182" Width="0.752" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="addresses" Type="ClassLibrary.classes.Address" FixedToPoint="true">
+      <Path>
+        <Point X="6.25" Y="6.5" />
+        <Point X="5.438" Y="6.5" />
+        <Point X="5.438" Y="6.75" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="login" Type="ClassLibrary.classes.Login" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="7.75" Y="6.25" />
+        <Point X="7.75" Y="5.875" />
+        <Point X="8.094" Y="5.875" />
+        <Point X="8.094" Y="5.584" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AABAAAAAQAAAAAAEgAAAAAAEAAAAAIAAAEAQQAAAEAA=</HashCode>
+      <FileName>classes\Client.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="account" />
+      <Field Name="login" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Field Name="systems" />
+      <Field Name="addresses" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="ClassLibrary.classes.Configuration">
+    <Position X="10.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AkBAAAAAAAAgAAAEoAAAAAAEAAAAAIAAAAAAAAJAAAA=</HashCode>
+      <FileName>classes\Configuration.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="options" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="ClassLibrary.classes.Contact">
+    <Position X="3.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAhAAAAIQAAAEgAAAAgIEAAACAIACAAAAAgAAAAA=</HashCode>
+      <FileName>classes\Contact.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibrary.classes.Employee">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <AssociationLine Name="login" Type="ClassLibrary.classes.Login" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="5.438" Y="4.175" />
+        <Point X="5.438" Y="5.062" />
+        <Point X="7" Y="5.062" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AABAAAEAAAABAAAEgAAAAAAEAAAAAIAgAAAQIAAAEAA=</HashCode>
+      <FileName>classes\Employee.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="login" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="ClassLibrary.classes.Global">
+    <Position X="14" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>classes\Global.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibrary.classes.Login">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABEAAoAAIAIAACEgQAAACEEAAAAAIACAAAAAgAEAAA=</HashCode>
+      <FileName>classes\Login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibrary.classes.Offer">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <AssociationLine Name="option" Type="ClassLibrary.classes.Option" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="12.812" Y="4.622" />
+        <Point X="12.812" Y="5.25" />
+        <Point X="12" Y="5.25" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>QABAAAAAAAAgACAMoCAAAAAEAAAAAIAAAgAAAEIAAAA=</HashCode>
+      <FileName>classes\Offer.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="option" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="ClassLibrary.classes.Option">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <AssociationLine Name="products" Type="ClassLibrary.classes.Product" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="11.625" Y="5.968" />
+        <Point X="11.625" Y="6.25" />
+        <Point X="13" Y="6.25" />
+        <Point X="13" Y="6.5" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="recommendedFor" Type="ClassLibrary.classes.GeoData" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="12" Y="5.625" />
+        <Point X="14.75" Y="5.625" />
+        <Point X="14.75" Y="4.738" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AABBAAQgCYAgAAAEogAAAAYEAAAEAIBAAQAABAEAAAQ=</HashCode>
+      <FileName>classes\Option.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="products" />
+      <Field Name="recommendedFor" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="ClassLibrary.classes.Person">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <AssociationLine Name="personList" Type="ClassLibrary.classes.Person" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="0.688" Y="0.5" />
+        <Point X="0.688" Y="0.25" />
+        <Point X="1.812" Y="0.25" />
+        <Point X="1.812" Y="0.5" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>EABAEAAAAAAAgACEgAAGkAQEBgAUAIAAAAAAAAAAAgA=</HashCode>
+      <FileName>classes\Person.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="contactDetails" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Field Name="personList" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="ClassLibrary.classes.Product">
+    <Position X="12.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABhAAAAAQAgAAAEsAAIQBSEAAAFCIACAQgAAgAAIAA=</HashCode>
+      <FileName>classes\Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibrary.classes.Status">
+    <Position X="8.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAABCAAAAQACEgIAEABAEBAAAAIABAAAAAUAAAAA=</HashCode>
+      <FileName>classes\Status.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibrary.classes.System">
+    <Position X="6.25" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AARAAEAEAABAAAAEgAAAAAAEAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>classes\System.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="status" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Field Name="configurations" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="ClassLibrary.classes.Technician">
+    <Position X="0.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAFAAAAAAAAAAAAEgAAAAAAEAEAAAIBAAAAAAAABAAA=</HashCode>
+      <FileName>classes\Technician.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibrary.classes.GeoData">
+    <Position X="14" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEgAAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>classes\GeoData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="ClassLibrary.interfaces.Id&lt;T&gt;" BaseTypeListCollapsed="true">
+    <Position X="14" Y="6.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAIAAAAA=</HashCode>
+      <FileName>interfaces\IId.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Struct>
+  <Struct Name="ClassLibrary.interfaces.Person" Collapsed="true">
+    <Position X="16" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>interfaces\IId.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ClassLibrary.interfaces.Product" Collapsed="true">
+    <Position X="16" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>interfaces\IId.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ClassLibrary.interfaces.Location" Collapsed="true">
+    <Position X="16" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>interfaces\IId.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ClassLibrary.interfaces.Client" Collapsed="true">
+    <Position X="16" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>interfaces\IId.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ClassLibrary.interfaces.Employee" Collapsed="true">
+    <Position X="16" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>interfaces\IId.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ClassLibrary.interfaces.Address" Collapsed="true">
+    <Position X="16" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>interfaces\IId.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Interface Name="ClassLibrary.interfaces.IId" Collapsed="true">
+    <Position X="14" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>interfaces\IId.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="ClassLibrary.classes.Terrian">
+    <Position X="18" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAgAAIAAAACAAAAAQAAAAAAgAAAACAAAAAAGCAE=</HashCode>
+      <FileName>classes\GeoData.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ClassLibrary.classes.Weather">
+    <Position X="16.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACBQAABAAAAAAABICAQAAAAABEAAAAAAAAAAAA=</HashCode>
+      <FileName>classes\GeoData.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

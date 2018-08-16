@@ -1,0 +1,2930 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<DynamicHelp xmlns="http://msdn.microsoft.com/vsdata/xsd/vsdh.xsd" xmlns:xsi="http://www.w3.org/2000/10/XMLSchema-instance" xsi:schemaLocation="http://msdn.microsoft.com/vsdata/xsd/vsdh.xsd">	
+   <LINKGROUP ID="ClassLibrary" Title="ClassLibrary Reference Help" Priority="2100">
+      <GLYPH Expanded="vs:/ctxhelp_show.gif" Collapsed="vs:/ctxhelp_hide.gif"/>
+   </LINKGROUP>
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Account.Account" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000002_overloads--.html" LinkGroup="ClassLibrary">Account Constructor</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Account.Account" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000003_overloads--.html" LinkGroup="ClassLibrary">Account Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Account" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000001.html" LinkGroup="ClassLibrary">Account Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Client.Account" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000049.html" LinkGroup="ClassLibrary">Account Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.derived.AccountGuid" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000078.html" LinkGroup="ClassLibrary">AccountGuid Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.derived.AccountGuid.AccountGuid" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000079.html" LinkGroup="ClassLibrary">AccountGuid Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Account.AccountType" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_000000000000000A.html" LinkGroup="ClassLibrary">AccountType Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Employee.Active" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000080.html" LinkGroup="ClassLibrary">Active Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Product.AddProduct" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000102.html" LinkGroup="ClassLibrary">AddProduct Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Address.Address" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000014_overloads--.html" LinkGroup="ClassLibrary">Address Constructor</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Address.Address" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000015_overloads--.html" LinkGroup="ClassLibrary">Address Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Address" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000013.html" LinkGroup="ClassLibrary">Address Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.interfaces.Address" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_000000000000013C.html" LinkGroup="ClassLibrary">Address Structure</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Address.Address1" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_000000000000001D.html" LinkGroup="ClassLibrary">Address1 Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Address.Address2" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_000000000000001C.html" LinkGroup="ClassLibrary">Address2 Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Client.Addresses" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_000000000000004B.html" LinkGroup="ClassLibrary">Addresses Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Contact.AndroidDeviceID" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000063.html" LinkGroup="ClassLibrary">AndroidDeviceID Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Contact.AppleDeviceID" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000061.html" LinkGroup="ClassLibrary">AppleDeviceID Property</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Appointment.Appointment" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000023_overloads--.html" LinkGroup="ClassLibrary">Appointment Constructor</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Appointment.Appointment" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000024_overloads--.html" LinkGroup="ClassLibrary">Appointment Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Appointment" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000022.html" LinkGroup="ClassLibrary">Appointment Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Product.ArrivalDate" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000F6.html" LinkGroup="ClassLibrary">ArrivalDate Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Status.AverageEnergyUsage" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000110.html" LinkGroup="ClassLibrary">AverageEnergyUsage Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Status.AverageTemperature" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000111.html" LinkGroup="ClassLibrary">AverageTemperature Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.GeoData.AverageWeather" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000091.html" LinkGroup="ClassLibrary">AverageWeather Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Card.Bank" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000035.html" LinkGroup="ClassLibrary">Bank Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Account.BillsDirectory" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000008.html" LinkGroup="ClassLibrary">BillsDirectory Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Card.CVVNumber" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000037.html" LinkGroup="ClassLibrary">CVVNumber Property</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Card.Card" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000032_overloads--.html" LinkGroup="ClassLibrary">Card Constructor</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Card.Card" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000034_overloads--.html" LinkGroup="ClassLibrary">Card Constructor</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Card.Card" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000033_overloads--.html" LinkGroup="ClassLibrary">Card Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Card" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000031.html" LinkGroup="ClassLibrary">Card Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Account.Card" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000004.html" LinkGroup="ClassLibrary">Card Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Card.CardHolder" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000038.html" LinkGroup="ClassLibrary">CardHolder Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Card.CardNumber" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_000000000000003A.html" LinkGroup="ClassLibrary">CardNumber Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Status.Citical" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000114.html" LinkGroup="ClassLibrary">Citical Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Address.City" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_000000000000001A.html" LinkGroup="ClassLibrary">City Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary Reference" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_000000000000013D.html" LinkGroup="ClassLibrary">ClassLibrary Reference</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000000.html" LinkGroup="ClassLibrary">ClassLibrary.classes Namespace</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.derived" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000077.html" LinkGroup="ClassLibrary">ClassLibrary.classes.derived Namespace</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.lazyLoad.client" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000AD.html" LinkGroup="ClassLibrary">ClassLibrary.classes.lazyLoad.client Namespace</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.functions" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_000000000000012E.html" LinkGroup="ClassLibrary">ClassLibrary.functions Namespace</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.interfaces" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000132.html" LinkGroup="ClassLibrary">ClassLibrary.interfaces Namespace</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Client.Client" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000043_overloads--.html" LinkGroup="ClassLibrary">Client Constructor</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Client.Client" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000046_overloads--.html" LinkGroup="ClassLibrary">Client Constructor</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Client.Client" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000044_overloads--.html" LinkGroup="ClassLibrary">Client Constructor</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Client.Client" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000045_overloads--.html" LinkGroup="ClassLibrary">Client Constructor</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Client.Client" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000047_overloads--.html" LinkGroup="ClassLibrary">Client Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Client" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000042.html" LinkGroup="ClassLibrary">Client Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.interfaces.Client" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_000000000000013A.html" LinkGroup="ClassLibrary">Client Structure</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Appointment.ClientGUID" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000029.html" LinkGroup="ClassLibrary">ClientGUID Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Client.ClientIdetifier" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_000000000000004A.html" LinkGroup="ClassLibrary">ClientIdetifier Property</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.derived.ClientList.ClientList" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_000000000000007B_overloads--.html" LinkGroup="ClassLibrary">ClientList Constructor</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.derived.ClientList.ClientList" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_000000000000007C_overloads--.html" LinkGroup="ClassLibrary">ClientList Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.derived.ClientList" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_000000000000007A.html" LinkGroup="ClassLibrary">ClientList Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.derived.ClientList.Clients" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_000000000000007D.html" LinkGroup="ClassLibrary">Clients Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Appointment.Completed" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000025.html" LinkGroup="ClassLibrary">Completed Property</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Configuration.Configuration" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000054_overloads--.html" LinkGroup="ClassLibrary">Configuration Constructor</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Configuration.Configuration" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000055_overloads--.html" LinkGroup="ClassLibrary">Configuration Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Configuration" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000053.html" LinkGroup="ClassLibrary">Configuration Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Configuration.ConfigurationCode" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000056.html" LinkGroup="ClassLibrary">ConfigurationCode Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Appointment.Confirmed" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000026.html" LinkGroup="ClassLibrary">Confirmed Property</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Contact.Contact" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_000000000000005E_overloads--.html" LinkGroup="ClassLibrary">Contact Constructor</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Contact.Contact" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_000000000000005F_overloads--.html" LinkGroup="ClassLibrary">Contact Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Contact" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_000000000000005D.html" LinkGroup="ClassLibrary">Contact Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Client.ContactDetails" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000048.html" LinkGroup="ClassLibrary">ContactDetails Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Contact.ContactMethods" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000062.html" LinkGroup="ClassLibrary">ContactMethods Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Contact.ContactNumber" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000065.html" LinkGroup="ClassLibrary">ContactNumber Property</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Contract.Contract" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_000000000000006A_overloads--.html" LinkGroup="ClassLibrary">Contract Constructor</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Contract.Contract" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_000000000000006B_overloads--.html" LinkGroup="ClassLibrary">Contract Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Contract" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000069.html" LinkGroup="ClassLibrary">Contract Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.System.Contract" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_000000000000011E.html" LinkGroup="ClassLibrary">Contract Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Contract.ContractIdentifier" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000070.html" LinkGroup="ClassLibrary">ContractIdentifier Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Appointment.Cost" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000028.html" LinkGroup="ClassLibrary">Cost Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Account.CostPerMonth" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000009.html" LinkGroup="ClassLibrary">CostPerMonth Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Address.Country" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000019.html" LinkGroup="ClassLibrary">Country Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Account.Credit" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000006.html" LinkGroup="ClassLibrary">Credit Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.databaseMap.DBColumn" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000076.html" LinkGroup="ClassLibrary">DBColumn Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Appointment.Date" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_000000000000002B.html" LinkGroup="ClassLibrary">Date Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Person.DateOfBirth" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000E8.html" LinkGroup="ClassLibrary">DateOfBirth Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.lazyLoad.client.Details.DefaultDetails" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000B3.html" LinkGroup="ClassLibrary">DefaultDetails Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Configuration.Description" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000057.html" LinkGroup="ClassLibrary">Description Property {ClassLibrary.classes.Configuration}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.GeoData.Description" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_000000000000008C.html" LinkGroup="ClassLibrary">Description Property {ClassLibrary.classes.GeoData}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Offer.Description" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000C7.html" LinkGroup="ClassLibrary">Description Property {ClassLibrary.classes.Offer}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Option.Description" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000D7.html" LinkGroup="ClassLibrary">Description Property {ClassLibrary.classes.Option}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Product.Description" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000FA.html" LinkGroup="ClassLibrary">Description Property {ClassLibrary.classes.Product}</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.lazyLoad.client.Details.Details" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000B0_overloads--.html" LinkGroup="ClassLibrary">Details Constructor</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.lazyLoad.client.Details.Details" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000AF_overloads--.html" LinkGroup="ClassLibrary">Details Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.lazyLoad.client.Details" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000AE.html" LinkGroup="ClassLibrary">Details Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Offer.Discount" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000CA.html" LinkGroup="ClassLibrary">Discount Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Contact.EmailAddress" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000064.html" LinkGroup="ClassLibrary">EmailAddress Property</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Employee.Employee" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000082_overloads--.html" LinkGroup="ClassLibrary">Employee Constructor</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Employee.Employee" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000083_overloads--.html" LinkGroup="ClassLibrary">Employee Constructor</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Employee.Employee" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000084_overloads--.html" LinkGroup="ClassLibrary">Employee Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Employee" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_000000000000007E.html" LinkGroup="ClassLibrary">Employee Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.interfaces.Employee" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_000000000000013B.html" LinkGroup="ClassLibrary">Employee Structure</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Card.EncryptedString" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000036.html" LinkGroup="ClassLibrary">EncryptedString Property {ClassLibrary.classes.Card}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Login.EncryptedString" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000B8.html" LinkGroup="ClassLibrary">EncryptedString Property {ClassLibrary.classes.Login}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Contract.EndDate" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_000000000000006D.html" LinkGroup="ClassLibrary">EndDate Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Account.Equals" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_000000000000000C.html" LinkGroup="ClassLibrary">Equals Method {ClassLibrary.classes.Account}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Address.Equals" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_000000000000001F.html" LinkGroup="ClassLibrary">Equals Method {ClassLibrary.classes.Address}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Appointment.Equals" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_000000000000002D.html" LinkGroup="ClassLibrary">Equals Method {ClassLibrary.classes.Appointment}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Card.Equals" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_000000000000003D.html" LinkGroup="ClassLibrary">Equals Method {ClassLibrary.classes.Card}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Client.Equals" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_000000000000004E.html" LinkGroup="ClassLibrary">Equals Method {ClassLibrary.classes.Client}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Configuration.Equals" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_000000000000005A.html" LinkGroup="ClassLibrary">Equals Method {ClassLibrary.classes.Configuration}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Contact.Equals" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000066.html" LinkGroup="ClassLibrary">Equals Method {ClassLibrary.classes.Contact}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Employee.Equals" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000086.html" LinkGroup="ClassLibrary">Equals Method {ClassLibrary.classes.Employee}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.GeoData.Equals" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000092.html" LinkGroup="ClassLibrary">Equals Method {ClassLibrary.classes.GeoData}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Login.Equals" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000BE.html" LinkGroup="ClassLibrary">Equals Method {ClassLibrary.classes.Login}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Offer.Equals" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000CC.html" LinkGroup="ClassLibrary">Equals Method {ClassLibrary.classes.Offer}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Option.Equals" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000DD.html" LinkGroup="ClassLibrary">Equals Method {ClassLibrary.classes.Option}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Person.Equals" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000EB.html" LinkGroup="ClassLibrary">Equals Method {ClassLibrary.classes.Person}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Product.Equals" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000FF.html" LinkGroup="ClassLibrary">Equals Method {ClassLibrary.classes.Product}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Schedule.Equals" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_000000000000010A.html" LinkGroup="ClassLibrary">Equals Method {ClassLibrary.classes.Schedule}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Status.Equals" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000116.html" LinkGroup="ClassLibrary">Equals Method {ClassLibrary.classes.Status}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.System.Equals" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000121.html" LinkGroup="ClassLibrary">Equals Method {ClassLibrary.classes.System}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Technician.Equals" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_000000000000012B.html" LinkGroup="ClassLibrary">Equals Method {ClassLibrary.classes.Technician}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Card.ExpireDate" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000039.html" LinkGroup="ClassLibrary">ExpireDate Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.interfaces.Id<T>.explicit operator ClassLibrary.interfaces.Explicit Conversion (String to Id)" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000136.html" LinkGroup="ClassLibrary">Explicit Conversion (String to Id) Operator</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Appointment.ExtraDetails" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000027.html" LinkGroup="ClassLibrary">ExtraDetails Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Option.Functions" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000D9.html" LinkGroup="ClassLibrary">Functions Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Account.GUID" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_000000000000000B.html" LinkGroup="ClassLibrary">GUID Property {ClassLibrary.classes.Account}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Address.GUID" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_000000000000001E.html" LinkGroup="ClassLibrary">GUID Property {ClassLibrary.classes.Address}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Appointment.GUID" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_000000000000002C.html" LinkGroup="ClassLibrary">GUID Property {ClassLibrary.classes.Appointment}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Card.GUID" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_000000000000003C.html" LinkGroup="ClassLibrary">GUID Property {ClassLibrary.classes.Card}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Client.GUID" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_000000000000004C.html" LinkGroup="ClassLibrary">GUID Property {ClassLibrary.classes.Client}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Configuration.GUID" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000058.html" LinkGroup="ClassLibrary">GUID Property {ClassLibrary.classes.Configuration}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Contact.GUID" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000060.html" LinkGroup="ClassLibrary">GUID Property {ClassLibrary.classes.Contact}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Contract.GUID" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000073.html" LinkGroup="ClassLibrary">GUID Property {ClassLibrary.classes.Contract}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Employee.GUID" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000085.html" LinkGroup="ClassLibrary">GUID Property {ClassLibrary.classes.Employee}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.GeoData.GUID" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_000000000000008D.html" LinkGroup="ClassLibrary">GUID Property {ClassLibrary.classes.GeoData}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Login.GUID" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000BD.html" LinkGroup="ClassLibrary">GUID Property {ClassLibrary.classes.Login}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Offer.GUID" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000CB.html" LinkGroup="ClassLibrary">GUID Property {ClassLibrary.classes.Offer}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Option.GUID" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000DC.html" LinkGroup="ClassLibrary">GUID Property {ClassLibrary.classes.Option}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Person.GUID" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000E4.html" LinkGroup="ClassLibrary">GUID Property {ClassLibrary.classes.Person}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Product.GUID" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000FE.html" LinkGroup="ClassLibrary">GUID Property {ClassLibrary.classes.Product}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Schedule.GUID" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000108.html" LinkGroup="ClassLibrary">GUID Property {ClassLibrary.classes.Schedule}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Status.GUID" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000115.html" LinkGroup="ClassLibrary">GUID Property {ClassLibrary.classes.Status}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.System.GUID" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_000000000000011D.html" LinkGroup="ClassLibrary">GUID Property {ClassLibrary.classes.System}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Technician.GUID" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_000000000000012A.html" LinkGroup="ClassLibrary">GUID Property {ClassLibrary.classes.Technician}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Person.Gender" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000E5.html" LinkGroup="ClassLibrary">Gender Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.lazyLoad.client.Details.GenderC" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000B2.html" LinkGroup="ClassLibrary">GenderC Property</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.GeoData.GeoData" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_000000000000008A_overloads--.html" LinkGroup="ClassLibrary">GeoData Constructor</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.GeoData.GeoData" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_000000000000008B_overloads--.html" LinkGroup="ClassLibrary">GeoData Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.GeoData" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000089.html" LinkGroup="ClassLibrary">GeoData Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Account.GetHashCode" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_000000000000000D.html" LinkGroup="ClassLibrary">GetHashCode Method {ClassLibrary.classes.Account}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Address.GetHashCode" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000020.html" LinkGroup="ClassLibrary">GetHashCode Method {ClassLibrary.classes.Address}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Appointment.GetHashCode" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_000000000000002E.html" LinkGroup="ClassLibrary">GetHashCode Method {ClassLibrary.classes.Appointment}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Card.GetHashCode" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_000000000000003E.html" LinkGroup="ClassLibrary">GetHashCode Method {ClassLibrary.classes.Card}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Client.GetHashCode" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_000000000000004F.html" LinkGroup="ClassLibrary">GetHashCode Method {ClassLibrary.classes.Client}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Configuration.GetHashCode" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_000000000000005B.html" LinkGroup="ClassLibrary">GetHashCode Method {ClassLibrary.classes.Configuration}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Contact.GetHashCode" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000067.html" LinkGroup="ClassLibrary">GetHashCode Method {ClassLibrary.classes.Contact}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Employee.GetHashCode" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000087.html" LinkGroup="ClassLibrary">GetHashCode Method {ClassLibrary.classes.Employee}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.GeoData.GetHashCode" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000093.html" LinkGroup="ClassLibrary">GetHashCode Method {ClassLibrary.classes.GeoData}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Login.GetHashCode" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000BF.html" LinkGroup="ClassLibrary">GetHashCode Method {ClassLibrary.classes.Login}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Offer.GetHashCode" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000CD.html" LinkGroup="ClassLibrary">GetHashCode Method {ClassLibrary.classes.Offer}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Option.GetHashCode" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000DE.html" LinkGroup="ClassLibrary">GetHashCode Method {ClassLibrary.classes.Option}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Person.GetHashCode" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000EC.html" LinkGroup="ClassLibrary">GetHashCode Method {ClassLibrary.classes.Person}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Product.GetHashCode" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000100.html" LinkGroup="ClassLibrary">GetHashCode Method {ClassLibrary.classes.Product}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Schedule.GetHashCode" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_000000000000010B.html" LinkGroup="ClassLibrary">GetHashCode Method {ClassLibrary.classes.Schedule}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Status.GetHashCode" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000117.html" LinkGroup="ClassLibrary">GetHashCode Method {ClassLibrary.classes.Status}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.System.GetHashCode" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000122.html" LinkGroup="ClassLibrary">GetHashCode Method {ClassLibrary.classes.System}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Technician.GetHashCode" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_000000000000012C.html" LinkGroup="ClassLibrary">GetHashCode Method {ClassLibrary.classes.Technician}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Global" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000AC.html" LinkGroup="ClassLibrary">Global Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.GeoData.HowRemoteLocation" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_000000000000008F.html" LinkGroup="ClassLibrary">HowRemoteLocation Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Person.ID" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000E7.html" LinkGroup="ClassLibrary">ID Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.interfaces.Id<T>.Id" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000134.html" LinkGroup="ClassLibrary">Id<T> Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.interfaces.Id<T>" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000133.html" LinkGroup="ClassLibrary">Id<T> Structure</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.interfaces.Id<T>.implicit operator System.Implicit Conversion (Id to String)" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000135.html" LinkGroup="ClassLibrary">Implicit Conversion (Id to String) Operator</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Product.InStock" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000F7.html" LinkGroup="ClassLibrary">InStock Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.GeoData.InstallAmountIncrease" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_000000000000008E.html" LinkGroup="ClassLibrary">InstallAmountIncrease Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Option.InstallByCompanyCost" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000D4.html" LinkGroup="ClassLibrary">InstallByCompanyCost Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Option.InstallationTime" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000D5.html" LinkGroup="ClassLibrary">InstallationTime Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Contract.IsActive" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000071.html" LinkGroup="ClassLibrary">IsActive Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Account.IsLate" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000007.html" LinkGroup="ClassLibrary">IsLate Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.interfaces.Location" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000139.html" LinkGroup="ClassLibrary">Location Structure</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Login.LoggedInTime" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000BA.html" LinkGroup="ClassLibrary">LoggedInTime Property</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Login.Login" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000B5_overloads--.html" LinkGroup="ClassLibrary">Login Constructor</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Login.Login" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000B7_overloads--.html" LinkGroup="ClassLibrary">Login Constructor</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Login.Login" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000B6_overloads--.html" LinkGroup="ClassLibrary">Login Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Login" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000B4.html" LinkGroup="ClassLibrary">Login Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Client.Login" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_000000000000004D.html" LinkGroup="ClassLibrary">Login Property {ClassLibrary.classes.Client}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Employee.Login" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_000000000000007F.html" LinkGroup="ClassLibrary">Login Property {ClassLibrary.classes.Employee}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Contract.MainOptionGuid" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000072.html" LinkGroup="ClassLibrary">MainOptionGuid Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Product.Manufacturer" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000F5.html" LinkGroup="ClassLibrary">Manufacturer Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Status.Messages" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000113.html" LinkGroup="ClassLibrary">Messages Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Product.Model" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000F4.html" LinkGroup="ClassLibrary">Model Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Offer.MyProperty" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000C8.html" LinkGroup="ClassLibrary">MyProperty Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Option.Name" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000D6.html" LinkGroup="ClassLibrary">Name Property {ClassLibrary.classes.Option}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Person.Name" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000EA.html" LinkGroup="ClassLibrary">Name Property {ClassLibrary.classes.Person}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Product.Name" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000F9.html" LinkGroup="ClassLibrary">Name Property {ClassLibrary.classes.Product}</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Offer.Offer" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000C5_overloads--.html" LinkGroup="ClassLibrary">Offer Constructor</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Offer.Offer" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000C6_overloads--.html" LinkGroup="ClassLibrary">Offer Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Offer" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000C4.html" LinkGroup="ClassLibrary">Offer Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Appointment.Operation" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_000000000000002A.html" LinkGroup="ClassLibrary">Operation Property</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Option.Option" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000D0_overloads--.html" LinkGroup="ClassLibrary">Option Constructor</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Option.Option" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000D1_overloads--.html" LinkGroup="ClassLibrary">Option Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Option" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000CF.html" LinkGroup="ClassLibrary">Option Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Configuration.Options" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000059.html" LinkGroup="ClassLibrary">Options Property {ClassLibrary.classes.Configuration}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.System.Options" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_000000000000011F.html" LinkGroup="ClassLibrary">Options Property {ClassLibrary.classes.System}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Login.Password" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000BC.html" LinkGroup="ClassLibrary">Password Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Card.PaymentType" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_000000000000003B.html" LinkGroup="ClassLibrary">PaymentType Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Employee.PermissionLevel" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000081.html" LinkGroup="ClassLibrary">PermissionLevel Property</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Person.Person" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000E2_overloads--.html" LinkGroup="ClassLibrary">Person Constructor</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Person.Person" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000E3_overloads--.html" LinkGroup="ClassLibrary">Person Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Person" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000E1.html" LinkGroup="ClassLibrary">Person Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.interfaces.Person" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000137.html" LinkGroup="ClassLibrary">Person Structure</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Person.PersonList" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000E6.html" LinkGroup="ClassLibrary">PersonList Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Address.PostalCode" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000018.html" LinkGroup="ClassLibrary">PostalCode Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Option.Price" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000DA.html" LinkGroup="ClassLibrary">Price Property {ClassLibrary.classes.Option}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Product.Price" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000FB.html" LinkGroup="ClassLibrary">Price Property {ClassLibrary.classes.Product}</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Product.Product" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000EF_overloads--.html" LinkGroup="ClassLibrary">Product Constructor</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Product.Product" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000F0_overloads--.html" LinkGroup="ClassLibrary">Product Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Product" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000EE.html" LinkGroup="ClassLibrary">Product Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.interfaces.Product" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000138.html" LinkGroup="ClassLibrary">Product Structure</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Product.ProductCode" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000F8.html" LinkGroup="ClassLibrary">ProductCode Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Option.Products" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000D8.html" LinkGroup="ClassLibrary">Products Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Option.RecommendedFor" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000DB.html" LinkGroup="ClassLibrary">RecommendedFor Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Account.RegisteredOn" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000005.html" LinkGroup="ClassLibrary">RegisteredOn Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Product.RemoveProduct" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000103.html" LinkGroup="ClassLibrary">RemoveProduct Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Schedule.Schedule" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000106_overloads--.html" LinkGroup="ClassLibrary">Schedule Constructor</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Schedule.Schedule" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000107_overloads--.html" LinkGroup="ClassLibrary">Schedule Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Schedule" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000105.html" LinkGroup="ClassLibrary">Schedule Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Technician.Schedule" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000128.html" LinkGroup="ClassLibrary">Schedule Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Schedule.ScheduleTimeActivity" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000109.html" LinkGroup="ClassLibrary">ScheduleTimeActivity Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Product.SerialNumber" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000F3.html" LinkGroup="ClassLibrary">SerialNumber Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Contract.ServiceLevel" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_000000000000006F.html" LinkGroup="ClassLibrary">ServiceLevel Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Login.SessionActive" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000B9.html" LinkGroup="ClassLibrary">SessionActive Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Contract.StartDate" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_000000000000006E.html" LinkGroup="ClassLibrary">StartDate Property {ClassLibrary.classes.Contract}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Offer.StartDate" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000C9.html" LinkGroup="ClassLibrary">StartDate Property {ClassLibrary.classes.Offer}</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Status.Status" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_000000000000010E_overloads--.html" LinkGroup="ClassLibrary">Status Constructor</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Status.Status" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_000000000000010F_overloads--.html" LinkGroup="ClassLibrary">Status Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Status" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_000000000000010D.html" LinkGroup="ClassLibrary">Status Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.System.Status" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000120.html" LinkGroup="ClassLibrary">Status Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Address.Suburb" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_000000000000001B.html" LinkGroup="ClassLibrary">Suburb Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Person.Surname" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000E9.html" LinkGroup="ClassLibrary">Surname Property</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.System.System" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_000000000000011B_overloads--.html" LinkGroup="ClassLibrary">System Constructor</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.System.System" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_000000000000011C_overloads--.html" LinkGroup="ClassLibrary">System Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.System" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_000000000000011A.html" LinkGroup="ClassLibrary">System Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Address.TableDataInfo" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000017.html" LinkGroup="ClassLibrary">TableDataInfo Property {ClassLibrary.classes.Address}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Option.TableDataInfo" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000D3.html" LinkGroup="ClassLibrary">TableDataInfo Property {ClassLibrary.classes.Option}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Product.TableDataInfo" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000F2.html" LinkGroup="ClassLibrary">TableDataInfo Property {ClassLibrary.classes.Product}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Address.TableName" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000016.html" LinkGroup="ClassLibrary">TableName Property {ClassLibrary.classes.Address}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Option.TableName" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000D2.html" LinkGroup="ClassLibrary">TableName Property {ClassLibrary.classes.Option}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Product.TableName" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000F1.html" LinkGroup="ClassLibrary">TableName Property {ClassLibrary.classes.Product}</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Technician.Technician" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000125_overloads--.html" LinkGroup="ClassLibrary">Technician Constructor</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Technician.Technician" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000126_overloads--.html" LinkGroup="ClassLibrary">Technician Constructor</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Technician.Technician" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000127_overloads--.html" LinkGroup="ClassLibrary">Technician Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Technician" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000124.html" LinkGroup="ClassLibrary">Technician Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Technician.TechnicianLevel" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000129.html" LinkGroup="ClassLibrary">TechnicianLevel Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Terrian" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000095.html" LinkGroup="ClassLibrary">Terrian Enumeration</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.GeoData.Terrian" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000090.html" LinkGroup="ClassLibrary">Terrian Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Account.ToString" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_000000000000000E.html" LinkGroup="ClassLibrary">ToString Method {ClassLibrary.classes.Account}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Address.ToString" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000021.html" LinkGroup="ClassLibrary">ToString Method {ClassLibrary.classes.Address}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Appointment.ToString" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_000000000000002F.html" LinkGroup="ClassLibrary">ToString Method {ClassLibrary.classes.Appointment}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Card.ToString" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_000000000000003F.html" LinkGroup="ClassLibrary">ToString Method {ClassLibrary.classes.Card}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Client.ToString" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000050.html" LinkGroup="ClassLibrary">ToString Method {ClassLibrary.classes.Client}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Configuration.ToString" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_000000000000005C.html" LinkGroup="ClassLibrary">ToString Method {ClassLibrary.classes.Configuration}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Contact.ToString" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000068.html" LinkGroup="ClassLibrary">ToString Method {ClassLibrary.classes.Contact}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Employee.ToString" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000088.html" LinkGroup="ClassLibrary">ToString Method {ClassLibrary.classes.Employee}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.GeoData.ToString" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000094.html" LinkGroup="ClassLibrary">ToString Method {ClassLibrary.classes.GeoData}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Login.ToString" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000C0.html" LinkGroup="ClassLibrary">ToString Method {ClassLibrary.classes.Login}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Offer.ToString" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000CE.html" LinkGroup="ClassLibrary">ToString Method {ClassLibrary.classes.Offer}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Option.ToString" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000DF.html" LinkGroup="ClassLibrary">ToString Method {ClassLibrary.classes.Option}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Person.ToString" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000ED.html" LinkGroup="ClassLibrary">ToString Method {ClassLibrary.classes.Person}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Product.ToString" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000101.html" LinkGroup="ClassLibrary">ToString Method {ClassLibrary.classes.Product}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Schedule.ToString" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_000000000000010C.html" LinkGroup="ClassLibrary">ToString Method {ClassLibrary.classes.Schedule}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Status.ToString" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000118.html" LinkGroup="ClassLibrary">ToString Method {ClassLibrary.classes.Status}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.System.ToString" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000123.html" LinkGroup="ClassLibrary">ToString Method {ClassLibrary.classes.System}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Technician.ToString" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_000000000000012D.html" LinkGroup="ClassLibrary">ToString Method {ClassLibrary.classes.Technician}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Product.Type" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000FC.html" LinkGroup="ClassLibrary">Type Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Product.UpdateProduct" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000104.html" LinkGroup="ClassLibrary">UpdateProduct Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Contract.UpgradeOptions" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_000000000000006C.html" LinkGroup="ClassLibrary">UpgradeOptions Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Login.Username" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000BB.html" LinkGroup="ClassLibrary">Username Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Status.Warning" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000112.html" LinkGroup="ClassLibrary">Warning Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Product.WarrentyPeriod" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000FD.html" LinkGroup="ClassLibrary">WarrentyPeriod Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Weather" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000A1.html" LinkGroup="ClassLibrary">Weather Enumeration</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Option.calculateOverallCost" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000E0.html" LinkGroup="ClassLibrary">calculateOverallCost Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.databaseMap" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000074.html" LinkGroup="ClassLibrary">databaseMap Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.databaseMap.databaseMap" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000075.html" LinkGroup="ClassLibrary">databaseMap Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.functions.functions.decodeID" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000131.html" LinkGroup="ClassLibrary">decodeID Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Card.decryptString" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000041.html" LinkGroup="ClassLibrary">decryptString Method {ClassLibrary.classes.Card}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Login.decryptString" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000C3.html" LinkGroup="ClassLibrary">decryptString Method {ClassLibrary.classes.Login}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Account.deleteBillAfterTwoYears" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000011.html" LinkGroup="ClassLibrary">deleteBillAfterTwoYears Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Card.encryptObject" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000040.html" LinkGroup="ClassLibrary">encryptObject Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Login.encryptString" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000C2.html" LinkGroup="ClassLibrary">encryptString Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.functions.functions" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_000000000000012F.html" LinkGroup="ClassLibrary">functions Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Account.generateBill" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_000000000000000F.html" LinkGroup="ClassLibrary">generateBill Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Client.getClients" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000051.html" LinkGroup="ClassLibrary">getClients Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Client.insertClient" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000052.html" LinkGroup="ClassLibrary">insertClient Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.lazyLoad.client.Details.loadedDetails" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000B1.html" LinkGroup="ClassLibrary">loadedDetails Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Status.notifyParties" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000119.html" LinkGroup="ClassLibrary">notifyParties Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Account.sendBill" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000010.html" LinkGroup="ClassLibrary">sendBill Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Account.sendLateNotification" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000012.html" LinkGroup="ClassLibrary">sendLateNotification Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Login.signOutOperator" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_00000000000000C1.html" LinkGroup="ClassLibrary">signOutOperator Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.classes.Appointment.updateConfirmation" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000030.html" LinkGroup="ClassLibrary">updateConfirmation Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="ClassLibrary.functions.functions.var_dump" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:ClassLibrary.chm::/topic_0000000000000130.html" LinkGroup="ClassLibrary">var_dump Method</LItem>
+      </Links>
+   </Context>
+   
+
+</DynamicHelp>
+

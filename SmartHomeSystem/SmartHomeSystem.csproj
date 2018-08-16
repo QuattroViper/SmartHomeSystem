@@ -1,0 +1,308 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{97AD0868-AF24-4A2E-9C57-EC745C5A1217}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SmartHomeSystem</RootNamespace>
+    <AssemblyName>SmartHomeSystem</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>logosamll_lj3_icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MaterialDesignColors, Version=1.1.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MaterialDesignColors.1.1.3\lib\net45\MaterialDesignColors.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MaterialDesignThemes.Wpf, Version=2.4.0.1044, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MaterialDesignThemes.2.4.0.1044\lib\net45\MaterialDesignThemes.Wpf.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="SciChart.Wpf.UI.Transitionz, Version=1.0.9.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\SciChart.Wpf.UI.Transitionz.1.0.9\lib\net45\SciChart.Wpf.UI.Transitionz.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="calllcenter\CallCenterWindow.xaml.cs">
+      <DependentUpon>CallCenterWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="client\ClientInsert.xaml.cs">
+      <DependentUpon>ClientInsert.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="client\SystemLoginsWindow.xaml.cs">
+      <DependentUpon>SystemLoginsWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="fragments\ClientsFrags\NewAppointment.xaml.cs">
+      <DependentUpon>NewAppointment.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="fragments\OptionFrags\OptionFunctionAdd.xaml.cs">
+      <DependentUpon>OptionFunctionAdd.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="IEventBus.cs" />
+    <Compile Include="notification\NotificationWindow.xaml.cs">
+      <DependentUpon>NotificationWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Schedules\SchedulingWindow.xaml.cs">
+      <DependentUpon>SchedulingWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Schedules\UnassignedWindow.xaml.cs">
+      <DependentUpon>UnassignedWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="validation\OptionValidation.cs" />
+    <Compile Include="validation\ValidateStringTypes.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="fragments\Clients.xaml.cs">
+      <DependentUpon>Clients.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="fragments\ClientsFrags\Account.xaml.cs">
+      <DependentUpon>Account.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="fragments\ClientsFrags\ClientOptions.xaml.cs">
+      <DependentUpon>ClientOptions.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="fragments\ClientsFrags\ClientOptionsFrags\ClientOptionsOptionxaml.xaml.cs">
+      <DependentUpon>ClientOptionsOptionxaml.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="fragments\ClientsFrags\ClientOptionsFrags\ClientOptionsProduct.xaml.cs">
+      <DependentUpon>ClientOptionsProduct.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="fragments\ClientsFrags\Configurations.xaml.cs">
+      <DependentUpon>Configurations.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="fragments\ClientsFrags\Details.xaml.cs">
+      <DependentUpon>Details.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="fragments\ClientsFrags\Scheduling.xaml.cs">
+      <DependentUpon>Scheduling.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="fragments\ClientsFrags\Systems.xaml.cs">
+      <DependentUpon>Systems.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="fragments\productFrags\ProductWindow.xaml.cs">
+      <DependentUpon>ProductWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="IDetachContent.cs" />
+    <Compile Include="INotifyClientChange.cs" />
+    <Compile Include="Login.xaml.cs">
+      <DependentUpon>Login.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MainScreen.xaml.cs">
+      <DependentUpon>MainScreen.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="NavigationService.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <Resource Include="assets\fonts\PT_Sans-Web-Bold.ttf" />
+    <Resource Include="assets\fonts\PT_Sans-Web-BoldItalic.ttf" />
+    <Resource Include="assets\fonts\PT_Sans-Web-Italic.ttf" />
+    <Resource Include="assets\fonts\PTSansRegular.ttf" />
+    <None Include="ClassDiagram1.cd" />
+    <None Include="ClassDiagram2.cd" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Page Include="calllcenter\CallCenterWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="client\ClientInsert.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="client\SystemLoginsWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="fragments\Clients.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="fragments\ClientsFrags\Account.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="fragments\ClientsFrags\ClientOptions.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="fragments\ClientsFrags\ClientOptionsFrags\ClientOptionsOptionxaml.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="fragments\ClientsFrags\ClientOptionsFrags\ClientOptionsProduct.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="fragments\ClientsFrags\Configurations.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="fragments\ClientsFrags\Details.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="fragments\ClientsFrags\NewAppointment.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="fragments\ClientsFrags\Scheduling.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="fragments\ClientsFrags\Systems.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="fragments\OptionFrags\OptionFunctionAdd.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="fragments\productFrags\ProductWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Login.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainScreen.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="notification\NotificationWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Schedules\SchedulingWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Schedules\UnassignedWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="assets\ic_person.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="assets\ic_product.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="assets\ic_leave.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="assets\ic_settings.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="assets\ic_memory.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="assets\credit-card.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ClassLibrary\ClassLibrary.csproj">
+      <Project>{6B2E1A4C-716D-474B-B952-D14E0F8E9B9A}</Project>
+      <Name>ClassLibrary</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ErrorHandle\ErrorHandler.csproj">
+      <Project>{1E71F712-1B08-44D2-8DE4-C7E9F04870B8}</Project>
+      <Name>ErrorHandler</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EventBus\EventBus.csproj">
+      <Project>{60fb5d7b-9036-48fb-bb60-0e38bfbec182}</Project>
+      <Name>EventBus</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="assets\Logo.png" />
+    <Resource Include="assets\LogoSmall.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="logosamll_lj3_icon.ico" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
